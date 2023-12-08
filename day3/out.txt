@@ -1,0 +1,5507 @@
+Count: 0, adding 7 to count
+Count: 7, adding 5 to count
+Count: 75, adding 1 to count
+New character * at (1, 55)
+Count: 0, adding 5 to count
+Count: 5, adding 0 to count
+Count: 50, adding 1 to count
+Writing 501 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 9 to count
+Count: 89, adding 0 to count
+Count: 0, adding 2 to count
+Count: 2, adding 3 to count
+Count: 23, adding 1 to count
+Count: 0, adding 8 to count
+Count: 8, adding 2 to count
+Count: 82, adding 9 to count
+Count: 0, adding 1 to count
+New character * at (1, 121)
+Count: 1, adding 6 to count
+Count: 16, adding 8 to count
+Writing 168 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 4 to count
+Count: 14, adding 3 to count
+Count: 0, adding 8 to count
+Count: 8, adding 4 to count
+Count: 84, adding 1 to count
+Count: 0, adding 3 to count
+Count: 3, adding 1 to count
+Count: 31, adding 1 to count
+Count: 0, adding 4 to count
+Count: 4, adding 4 to count
+Count: 44, adding 1 to count
+New character % at (2, 132)
+Count: 0, adding 2 to count
+Count: 2, adding 0 to count
+Count: 20, adding 2 to count
+Writing 202 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 3 to count
+New character * at (3, 12)
+Count: 33, adding 2 to count
+Writing 332 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 0 to count
+Count: 0, adding 5 to count
+Count: 5, adding 3 to count
+New character * at (3, 24)
+Count: 53, adding 7 to count
+Writing 537 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 9 to count
+New character * at (3, 29)
+Count: 69, adding 7 to count
+Writing 697 to gigaTotal
+Count: 0, adding 9 to count
+New character * at (1, 38)
+Count: 9, adding 0 to count
+Count: 90, adding 1 to count
+Writing 901 to gigaTotal
+New character * at (1, 55)
+Count: 0, adding 6 to count
+Count: 6, adding 0 to count
+Count: 60, adding 9 to count
+Writing 609 to gigaTotal
+New character / at (1, 62)
+Count: 0, adding 6 to count
+Count: 6, adding 7 to count
+Count: 67, adding 8 to count
+Writing 678 to gigaTotal
+Count: 0, adding 2 to count
+New character * at (3, 72)
+Count: 2, adding 6 to count
+Count: 26, adding 1 to count
+Writing 261 to gigaTotal
+New character + at (1, 79)
+Count: 0, adding 9 to count
+Count: 9, adding 0 to count
+Writing 90 to gigaTotal
+Count: 0, adding 8 to count
+New character * at (3, 98)
+Count: 8, adding 7 to count
+Count: 87, adding 0 to count
+Writing 870 to gigaTotal
+New character * at (3, 102)
+Count: 0, adding 5 to count
+Count: 5, adding 1 to count
+Count: 51, adding 9 to count
+Writing 519 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 7 to count
+Count: 27, adding 2 to count
+New character * at (1, 121)
+Count: 0, adding 4 to count
+Count: 4, adding 4 to count
+Count: 44, adding 9 to count
+Writing 449 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 4 to count
+Count: 84, adding 0 to count
+New character * at (4, 31)
+Count: 0, adding 9 to count
+Count: 9, adding 6 to count
+Count: 96, adding 8 to count
+Writing 968 to gigaTotal
+New character * at (4, 42)
+Count: 0, adding 2 to count
+Count: 2, adding 7 to count
+Count: 27, adding 3 to count
+Writing 273 to gigaTotal
+New character / at (4, 46)
+Count: 0, adding 4 to count
+Count: 4, adding 4 to count
+Count: 44, adding 0 to count
+Writing 440 to gigaTotal
+New character - at (4, 52)
+Count: 0, adding 4 to count
+Count: 4, adding 1 to count
+Count: 41, adding 5 to count
+Writing 415 to gigaTotal
+Count: 0, adding 4 to count
+New character & at (4, 111)
+Count: 4, adding 4 to count
+Count: 44, adding 7 to count
+Writing 447 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 8 to count
+New character * at (4, 131)
+Count: 88, adding 3 to count
+Writing 883 to gigaTotal
+New character * at (5, 4)
+Count: 0, adding 3 to count
+Count: 3, adding 4 to count
+Writing 34 to gigaTotal
+New character * at (3, 12)
+Count: 0, adding 6 to count
+Count: 6, adding 5 to count
+Count: 65, adding 1 to count
+Writing 651 to gigaTotal
+New character + at (5, 15)
+Count: 0, adding 7 to count
+Count: 7, adding 8 to count
+Count: 78, adding 6 to count
+Writing 786 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 4 to count
+New character * at (3, 24)
+Count: 64, adding 6 to count
+Writing 646 to gigaTotal
+Count: 0, adding 8 to count
+New character * at (3, 29)
+Count: 8, adding 0 to count
+Count: 80, adding 4 to count
+Writing 804 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 4 to count
+New character * at (5, 87)
+Count: 0, adding 9 to count
+Count: 9, adding 6 to count
+Writing 96 to gigaTotal
+New character & at (3, 91)
+Count: 0, adding 7 to count
+Count: 7, adding 6 to count
+Count: 76, adding 0 to count
+Writing 760 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 2 to count
+New character * at (3, 98)
+Count: 22, adding 2 to count
+Writing 222 to gigaTotal
+New character * at (3, 102)
+Count: 0, adding 6 to count
+Count: 6, adding 3 to count
+Count: 63, adding 7 to count
+Writing 637 to gigaTotal
+New character * at (5, 113)
+Count: 0, adding 2 to count
+Count: 2, adding 9 to count
+Count: 29, adding 0 to count
+Writing 290 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 5 to count
+Count: 0, adding 3 to count
+Count: 3, adding 6 to count
+Count: 36, adding 8 to count
+New character & at (3, 134)
+Count: 0, adding 5 to count
+Count: 5, adding 6 to count
+Count: 56, adding 5 to count
+Writing 565 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 1 to count
+New character * at (5, 4)
+Count: 51, adding 8 to count
+Writing 518 to gigaTotal
+New character * at (4, 31)
+Count: 0, adding 7 to count
+Count: 7, adding 1 to count
+Count: 71, adding 7 to count
+Writing 717 to gigaTotal
+New character * at (4, 42)
+Count: 0, adding 8 to count
+Count: 8, adding 0 to count
+Writing 80 to gigaTotal
+New character * at (6, 56)
+Count: 0, adding 2 to count
+Count: 2, adding 3 to count
+Count: 23, adding 1 to count
+Writing 231 to gigaTotal
+New character = at (4, 63)
+Count: 0, adding 6 to count
+Count: 6, adding 1 to count
+Count: 61, adding 0 to count
+Writing 610 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 1 to count
+New character * at (5, 73)
+Count: 81, adding 0 to count
+Writing 810 to gigaTotal
+New character * at (5, 73)
+Count: 0, adding 9 to count
+Count: 9, adding 4 to count
+Count: 94, adding 2 to count
+Writing 942 to gigaTotal
+New character % at (4, 107)
+Count: 0, adding 6 to count
+Count: 6, adding 4 to count
+Count: 64, adding 0 to count
+Writing 640 to gigaTotal
+New character * at (4, 131)
+Count: 0, adding 4 to count
+Count: 4, adding 9 to count
+Count: 49, adding 9 to count
+Writing 499 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 8 to count
+New character & at (7, 22)
+Count: 18, adding 9 to count
+Writing 189 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 7 to count
+Count: 77, adding 2 to count
+New character * at (7, 81)
+Count: 0, adding 5 to count
+Count: 5, adding 5 to count
+Count: 55, adding 0 to count
+Writing 550 to gigaTotal
+New character * at (5, 87)
+Count: 0, adding 6 to count
+Count: 6, adding 2 to count
+Count: 62, adding 6 to count
+Writing 626 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 7 to count
+New character - at (6, 95)
+Count: 67, adding 6 to count
+Writing 676 to gigaTotal
+New character * at (7, 102)
+Count: 0, adding 2 to count
+Count: 2, adding 1 to count
+Count: 21, adding 3 to count
+Writing 213 to gigaTotal
+Count: 0, adding 4 to count
+New character * at (5, 113)
+Count: 4, adding 3 to count
+Count: 43, adding 2 to count
+Writing 432 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 9 to count
+Count: 79, adding 0 to count
+Count: 0, adding 8 to count
+Count: 8, adding 3 to count
+Count: 83, adding 4 to count
+Count: 0, adding 9 to count
+New character * at (8, 8)
+Count: 9, adding 9 to count
+Count: 99, adding 5 to count
+Writing 995 to gigaTotal
+Count: 0, adding 9 to count
+New character * at (8, 27)
+Count: 9, adding 5 to count
+Count: 95, adding 5 to count
+Writing 955 to gigaTotal
+New character * at (8, 38)
+Count: 0, adding 3 to count
+Count: 3, adding 9 to count
+Count: 39, adding 1 to count
+Writing 391 to gigaTotal
+New character * at (8, 49)
+Count: 0, adding 3 to count
+Count: 3, adding 8 to count
+Count: 38, adding 7 to count
+Writing 387 to gigaTotal
+Count: 0, adding 8 to count
+New character * at (6, 56)
+Count: 8, adding 2 to count
+Count: 82, adding 5 to count
+Writing 825 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 6 to count
+New character * at (8, 62)
+Count: 36, adding 2 to count
+Writing 362 to gigaTotal
+New character % at (8, 70)
+Count: 0, adding 4 to count
+Count: 4, adding 8 to count
+Count: 48, adding 1 to count
+Writing 481 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 3 to count
+Count: 33, adding 4 to count
+New character * at (8, 97)
+Count: 0, adding 5 to count
+Count: 5, adding 7 to count
+Count: 57, adding 9 to count
+Writing 579 to gigaTotal
+Count: 0, adding 8 to count
+New character % at (7, 108)
+Count: 8, adding 4 to count
+Writing 84 to gigaTotal
+New character - at (8, 117)
+Count: 0, adding 5 to count
+Count: 5, adding 0 to count
+Count: 50, adding 6 to count
+Writing 506 to gigaTotal
+New character = at (7, 11)
+Count: 0, adding 7 to count
+Count: 7, adding 0 to count
+Count: 70, adding 0 to count
+Writing 700 to gigaTotal
+New character $ at (9, 67)
+Count: 0, adding 1 to count
+Count: 1, adding 7 to count
+Count: 17, adding 0 to count
+Writing 170 to gigaTotal
+New character * at (7, 81)
+Count: 0, adding 7 to count
+Count: 7, adding 3 to count
+Count: 73, adding 3 to count
+Writing 733 to gigaTotal
+New character @ at (9, 91)
+Count: 0, adding 6 to count
+Count: 6, adding 5 to count
+Count: 65, adding 8 to count
+Writing 658 to gigaTotal
+New character * at (7, 102)
+Count: 0, adding 8 to count
+Count: 8, adding 3 to count
+Count: 83, adding 2 to count
+Writing 832 to gigaTotal
+New character / at (7, 120)
+Count: 0, adding 7 to count
+Count: 7, adding 7 to count
+Count: 77, adding 7 to count
+Writing 777 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 1 to count
+Count: 61, adding 6 to count
+Count: 0, adding 9 to count
+Count: 9, adding 1 to count
+New character + at (9, 132)
+Count: 91, adding 5 to count
+Writing 915 to gigaTotal
+Count: 0, adding 3 to count
+New character * at (8, 8)
+Count: 3, adding 2 to count
+Count: 32, adding 2 to count
+Writing 322 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 7 to count
+Count: 97, adding 7 to count
+Count: 0, adding 5 to count
+Count: 5, adding 2 to count
+New character * at (8, 27)
+Count: 52, adding 6 to count
+Writing 526 to gigaTotal
+New character * at (8, 38)
+Count: 0, adding 8 to count
+Count: 8, adding 5 to count
+Count: 85, adding 2 to count
+Writing 852 to gigaTotal
+New character + at (8, 46)
+Count: 0, adding 4 to count
+Count: 4, adding 1 to count
+Count: 41, adding 0 to count
+Writing 410 to gigaTotal
+New character * at (8, 49)
+Count: 0, adding 1 to count
+Count: 1, adding 4 to count
+Writing 14 to gigaTotal
+Count: 0, adding 2 to count
+New character * at (8, 62)
+Count: 2, adding 8 to count
+Writing 28 to gigaTotal
+New character * at (10, 78)
+Count: 0, adding 8 to count
+Count: 8, adding 3 to count
+Count: 83, adding 1 to count
+Writing 831 to gigaTotal
+New character * at (8, 97)
+Count: 0, adding 5 to count
+Count: 5, adding 8 to count
+Count: 58, adding 6 to count
+Writing 586 to gigaTotal
+New character # at (10, 109)
+Count: 0, adding 6 to count
+Count: 6, adding 9 to count
+Writing 69 to gigaTotal
+Count: 0, adding 3 to count
+New character - at (11, 33)
+Count: 3, adding 0 to count
+Writing 30 to gigaTotal
+New character % at (9, 85)
+Count: 0, adding 5 to count
+Count: 5, adding 0 to count
+Count: 50, adding 5 to count
+Writing 505 to gigaTotal
+New character * at (11, 94)
+Count: 0, adding 2 to count
+Count: 2, adding 7 to count
+Count: 27, adding 4 to count
+Writing 274 to gigaTotal
+New character * at (11, 114)
+Count: 0, adding 3 to count
+Count: 3, adding 4 to count
+Count: 34, adding 4 to count
+Writing 344 to gigaTotal
+New character * at (11, 120)
+Count: 0, adding 5 to count
+Count: 5, adding 2 to count
+Writing 52 to gigaTotal
+New character * at (11, 123)
+Count: 0, adding 3 to count
+Count: 3, adding 0 to count
+Count: 30, adding 8 to count
+Writing 308 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 2 to count
+New character * at (11, 12)
+Count: 12, adding 3 to count
+Writing 123 to gigaTotal
+New character * at (11, 12)
+Count: 0, adding 5 to count
+Count: 5, adding 0 to count
+Count: 50, adding 4 to count
+Writing 504 to gigaTotal
+Count: 0, adding 1 to count
+New character * at (10, 58)
+Count: 1, adding 5 to count
+Writing 15 to gigaTotal
+New character * at (10, 58)
+Count: 0, adding 9 to count
+Count: 9, adding 6 to count
+Count: 96, adding 8 to count
+Writing 968 to gigaTotal
+New character * at (12, 66)
+Count: 0, adding 4 to count
+Count: 4, adding 2 to count
+Count: 42, adding 7 to count
+Writing 427 to gigaTotal
+New character / at (10, 72)
+Count: 0, adding 4 to count
+Count: 4, adding 3 to count
+Count: 43, adding 9 to count
+Writing 439 to gigaTotal
+New character * at (10, 78)
+Count: 0, adding 4 to count
+Count: 4, adding 5 to count
+Count: 45, adding 6 to count
+Writing 456 to gigaTotal
+New character + at (12, 97)
+Count: 0, adding 9 to count
+Count: 9, adding 3 to count
+Count: 93, adding 5 to count
+Writing 935 to gigaTotal
+Count: 0, adding 4 to count
+New character = at (10, 107)
+Count: 4, adding 4 to count
+Count: 44, adding 1 to count
+Writing 441 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 9 to count
+New character * at (12, 132)
+Count: 19, adding 5 to count
+Writing 195 to gigaTotal
+New character * at (12, 132)
+Count: 0, adding 7 to count
+Count: 7, adding 9 to count
+Count: 79, adding 4 to count
+Writing 794 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 2 to count
+Count: 72, adding 9 to count
+Count: 0, adding 1 to count
+Count: 1, adding 8 to count
+Count: 18, adding 6 to count
+New character - at (11, 37)
+Count: 0, adding 7 to count
+Count: 7, adding 8 to count
+Count: 78, adding 6 to count
+Writing 786 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 7 to count
+New character * at (12, 44)
+Count: 47, adding 6 to count
+Writing 476 to gigaTotal
+New character * at (12, 44)
+Count: 0, adding 1 to count
+Count: 1, adding 6 to count
+Count: 16, adding 8 to count
+Writing 168 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 5 to count
+New character * at (12, 52)
+Count: 65, adding 3 to count
+Writing 653 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 4 to count
+New character * at (11, 94)
+Count: 14, adding 8 to count
+Writing 148 to gigaTotal
+New character / at (11, 102)
+Count: 0, adding 9 to count
+Count: 9, adding 6 to count
+Count: 96, adding 2 to count
+Writing 962 to gigaTotal
+New character * at (11, 123)
+Count: 0, adding 2 to count
+Count: 2, adding 7 to count
+Count: 27, adding 1 to count
+Writing 271 to gigaTotal
+New character = at (14, 11)
+Count: 0, adding 2 to count
+Count: 2, adding 3 to count
+Writing 23 to gigaTotal
+New character * at (12, 52)
+Count: 0, adding 4 to count
+Count: 4, adding 3 to count
+Count: 43, adding 5 to count
+Writing 435 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 9 to count
+New character * at (13, 60)
+Count: 49, adding 1 to count
+Writing 491 to gigaTotal
+New character * at (13, 60)
+Count: 0, adding 4 to count
+Writing 4 to gigaTotal
+Count: 0, adding 4 to count
+New character * at (12, 66)
+Count: 4, adding 0 to count
+Writing 40 to gigaTotal
+New character * at (14, 73)
+Count: 0, adding 2 to count
+Count: 2, adding 6 to count
+Writing 26 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 1 to count
+Count: 0, adding 1 to count
+Count: 1, adding 3 to count
+Count: 13, adding 3 to count
+New character * at (13, 107)
+Count: 0, adding 7 to count
+Count: 7, adding 5 to count
+Count: 75, adding 8 to count
+Writing 758 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 1 to count
+Count: 21, adding 5 to count
+Count: 0, adding 4 to count
+Count: 4, adding 6 to count
+Count: 46, adding 6 to count
+Count: 0, adding 6 to count
+Count: 6, adding 5 to count
+Count: 65, adding 6 to count
+New character * at (15, 24)
+Count: 0, adding 9 to count
+Count: 9, adding 5 to count
+Count: 95, adding 7 to count
+Writing 957 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 6 to count
+Count: 46, adding 3 to count
+New character - at (13, 69)
+Count: 0, adding 3 to count
+Count: 3, adding 7 to count
+Count: 37, adding 2 to count
+Writing 372 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 9 to count
+New character * at (13, 107)
+Count: 89, adding 4 to count
+Writing 894 to gigaTotal
+New character - at (13, 112)
+Count: 0, adding 6 to count
+Count: 6, adding 6 to count
+Count: 66, adding 1 to count
+Writing 661 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 0 to count
+Count: 90, adding 3 to count
+New character % at (14, 132)
+Count: 0, adding 2 to count
+Count: 2, adding 8 to count
+Count: 28, adding 3 to count
+Writing 283 to gigaTotal
+New character * at (16, 17)
+Count: 0, adding 4 to count
+Count: 4, adding 2 to count
+Count: 42, adding 1 to count
+Writing 421 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 2 to count
+Count: 0, adding 9 to count
+Count: 9, adding 4 to count
+New character - at (16, 49)
+Count: 94, adding 6 to count
+Writing 946 to gigaTotal
+New character = at (16, 57)
+Count: 0, adding 6 to count
+Count: 6, adding 6 to count
+Count: 66, adding 8 to count
+Writing 668 to gigaTotal
+New character * at (16, 62)
+Count: 0, adding 8 to count
+Count: 8, adding 8 to count
+Count: 88, adding 6 to count
+Writing 886 to gigaTotal
+New character * at (14, 73)
+Count: 0, adding 3 to count
+Count: 3, adding 0 to count
+Writing 30 to gigaTotal
+New character / at (16, 77)
+Count: 0, adding 6 to count
+Count: 6, adding 8 to count
+Count: 68, adding 2 to count
+Writing 682 to gigaTotal
+New character * at (16, 85)
+Count: 0, adding 1 to count
+Count: 1, adding 0 to count
+Count: 10, adding 8 to count
+Writing 108 to gigaTotal
+New character / at (16, 116)
+Count: 0, adding 2 to count
+Count: 2, adding 9 to count
+Count: 29, adding 2 to count
+Writing 292 to gigaTotal
+New character * at (16, 136)
+Count: 0, adding 1 to count
+Count: 1, adding 8 to count
+Count: 18, adding 9 to count
+Writing 189 to gigaTotal
+New character * at (17, 3)
+Count: 0, adding 7 to count
+Count: 7, adding 5 to count
+Count: 75, adding 9 to count
+Writing 759 to gigaTotal
+New character * at (17, 13)
+Count: 0, adding 3 to count
+Count: 3, adding 7 to count
+Count: 37, adding 9 to count
+Writing 379 to gigaTotal
+New character * at (15, 24)
+Count: 0, adding 3 to count
+Count: 3, adding 8 to count
+Count: 38, adding 0 to count
+Writing 380 to gigaTotal
+New character % at (15, 52)
+Count: 0, adding 9 to count
+Count: 9, adding 4 to count
+Count: 94, adding 2 to count
+Writing 942 to gigaTotal
+New character * at (17, 65)
+Count: 0, adding 8 to count
+Count: 8, adding 9 to count
+Count: 89, adding 1 to count
+Writing 891 to gigaTotal
+New character @ at (17, 89)
+Count: 0, adding 1 to count
+Count: 1, adding 9 to count
+Count: 19, adding 3 to count
+Writing 193 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 0 to count
+Count: 70, adding 3 to count
+Count: 0, adding 9 to count
+Count: 9, adding 4 to count
+New character / at (16, 108)
+Count: 94, adding 6 to count
+Writing 946 to gigaTotal
+Count: 0, adding 3 to count
+New character * at (17, 3)
+Count: 3, adding 9 to count
+Writing 39 to gigaTotal
+New character * at (16, 17)
+Count: 0, adding 8 to count
+Count: 8, adding 4 to count
+Count: 84, adding 7 to count
+Writing 847 to gigaTotal
+Count: 0, adding 8 to count
+New character - at (17, 34)
+Count: 8, adding 0 to count
+Writing 80 to gigaTotal
+New character * at (16, 62)
+Count: 0, adding 8 to count
+Count: 8, adding 8 to count
+Count: 88, adding 6 to count
+Writing 886 to gigaTotal
+New character * at (16, 85)
+Count: 0, adding 4 to count
+Count: 4, adding 1 to count
+Count: 41, adding 8 to count
+Writing 418 to gigaTotal
+Count: 0, adding 7 to count
+New character * at (18, 98)
+Count: 7, adding 6 to count
+Count: 76, adding 3 to count
+Writing 763 to gigaTotal
+New character + at (18, 111)
+Count: 0, adding 4 to count
+Count: 4, adding 3 to count
+Count: 43, adding 2 to count
+Writing 432 to gigaTotal
+New character * at (16, 136)
+Count: 0, adding 8 to count
+Count: 8, adding 7 to count
+Count: 87, adding 3 to count
+Writing 873 to gigaTotal
+Count: 0, adding 9 to count
+New character * at (17, 13)
+Count: 9, adding 1 to count
+Count: 91, adding 6 to count
+Writing 916 to gigaTotal
+Count: 0, adding 3 to count
+New character & at (19, 39)
+Count: 3, adding 3 to count
+Count: 33, adding 5 to count
+Writing 335 to gigaTotal
+New character * at (19, 41)
+Count: 0, adding 3 to count
+Count: 3, adding 6 to count
+Count: 36, adding 9 to count
+Writing 369 to gigaTotal
+New character * at (17, 65)
+Count: 0, adding 6 to count
+Count: 6, adding 5 to count
+Count: 65, adding 1 to count
+Writing 651 to gigaTotal
+New character + at (17, 71)
+Count: 0, adding 6 to count
+Count: 6, adding 2 to count
+Count: 62, adding 4 to count
+Writing 624 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 4 to count
+New character * at (18, 78)
+Count: 44, adding 5 to count
+Writing 445 to gigaTotal
+New character * at (18, 78)
+Count: 0, adding 8 to count
+Count: 8, adding 0 to count
+Count: 80, adding 9 to count
+Writing 809 to gigaTotal
+New character * at (18, 91)
+Count: 0, adding 6 to count
+Count: 6, adding 9 to count
+Count: 69, adding 5 to count
+Writing 695 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 6 to count
+New character * at (19, 104)
+Count: 26, adding 7 to count
+Writing 267 to gigaTotal
+Count: 0, adding 6 to count
+New character * at (19, 118)
+Count: 6, adding 6 to count
+Count: 66, adding 6 to count
+Writing 666 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 4 to count
+New character * at (19, 123)
+Count: 64, adding 1 to count
+Writing 641 to gigaTotal
+New character * at (19, 123)
+Count: 0, adding 8 to count
+Count: 8, adding 8 to count
+Count: 88, adding 8 to count
+Writing 888 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 8 to count
+Count: 48, adding 0 to count
+New character @ at (19, 3)
+Count: 0, adding 3 to count
+Count: 3, adding 8 to count
+Writing 38 to gigaTotal
+New character * at (20, 22)
+Count: 0, adding 6 to count
+Count: 6, adding 8 to count
+Count: 68, adding 5 to count
+Writing 685 to gigaTotal
+New character * at (20, 25)
+Count: 0, adding 1 to count
+Count: 1, adding 4 to count
+Count: 14, adding 9 to count
+Writing 149 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 1 to count
+New character * at (20, 55)
+Count: 31, adding 2 to count
+Writing 312 to gigaTotal
+Count: 0, adding 2 to count
+New character * at (18, 91)
+Count: 2, adding 7 to count
+Writing 27 to gigaTotal
+New character * at (18, 98)
+Count: 0, adding 5 to count
+Count: 5, adding 4 to count
+Count: 54, adding 4 to count
+Writing 544 to gigaTotal
+New character * at (20, 107)
+Count: 0, adding 4 to count
+Count: 4, adding 2 to count
+Count: 42, adding 0 to count
+Writing 420 to gigaTotal
+New character * at (19, 134)
+Count: 0, adding 7 to count
+Count: 7, adding 5 to count
+Count: 75, adding 0 to count
+Writing 750 to gigaTotal
+New character * at (19, 41)
+Count: 0, adding 2 to count
+Count: 2, adding 0 to count
+Count: 20, adding 8 to count
+Writing 208 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 6 to count
+New character + at (21, 62)
+Count: 36, adding 1 to count
+Writing 361 to gigaTotal
+New character * at (21, 72)
+Count: 0, adding 5 to count
+Count: 5, adding 6 to count
+Count: 56, adding 9 to count
+Writing 569 to gigaTotal
+New character * at (20, 92)
+Count: 0, adding 9 to count
+Count: 9, adding 8 to count
+Count: 98, adding 6 to count
+Writing 986 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 9 to count
+New character * at (19, 104)
+Count: 29, adding 5 to count
+Writing 295 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 5 to count
+New character * at (21, 113)
+Count: 75, adding 1 to count
+Writing 751 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 9 to count
+New character * at (19, 118)
+Count: 49, adding 9 to count
+Writing 499 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 4 to count
+New character * at (19, 134)
+Count: 54, adding 9 to count
+Writing 549 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 2 to count
+New character & at (20, 16)
+Count: 62, adding 6 to count
+Writing 626 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 9 to count
+New character * at (20, 22)
+Count: 39, adding 0 to count
+Writing 390 to gigaTotal
+New character * at (20, 25)
+Count: 0, adding 7 to count
+Count: 7, adding 6 to count
+Count: 76, adding 1 to count
+Writing 761 to gigaTotal
+New character * at (20, 55)
+Count: 0, adding 3 to count
+Count: 3, adding 1 to count
+Count: 31, adding 9 to count
+Writing 319 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 8 to count
+New character & at (20, 67)
+Count: 28, adding 9 to count
+Writing 289 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 5 to count
+New character * at (21, 72)
+Count: 25, adding 0 to count
+Writing 250 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 8 to count
+New character * at (20, 92)
+Count: 18, adding 9 to count
+Writing 189 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 4 to count
+New character * at (22, 100)
+Count: 94, adding 7 to count
+Writing 947 to gigaTotal
+New character * at (20, 107)
+Count: 0, adding 8 to count
+Count: 8, adding 0 to count
+Count: 80, adding 4 to count
+Writing 804 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 4 to count
+New character * at (21, 123)
+Count: 74, adding 2 to count
+Writing 742 to gigaTotal
+New character @ at (21, 5)
+Count: 0, adding 6 to count
+Count: 6, adding 6 to count
+Count: 66, adding 0 to count
+Writing 660 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 4 to count
+New character * at (21, 31)
+Count: 34, adding 2 to count
+Writing 342 to gigaTotal
+New character * at (21, 31)
+Count: 0, adding 5 to count
+Count: 5, adding 8 to count
+Count: 58, adding 2 to count
+Writing 582 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 4 to count
+New character $ at (21, 45)
+Count: 0, adding 6 to count
+Count: 6, adding 1 to count
+Count: 61, adding 1 to count
+Writing 611 to gigaTotal
+New character * at (23, 83)
+Count: 0, adding 3 to count
+Count: 3, adding 5 to count
+Count: 35, adding 4 to count
+Writing 354 to gigaTotal
+New character * at (21, 113)
+Count: 0, adding 9 to count
+Count: 9, adding 9 to count
+Count: 99, adding 7 to count
+Writing 997 to gigaTotal
+New character * at (21, 123)
+Count: 0, adding 5 to count
+Count: 5, adding 9 to count
+Count: 59, adding 5 to count
+Writing 595 to gigaTotal
+New character # at (23, 132)
+Count: 0, adding 8 to count
+Count: 8, adding 7 to count
+Count: 87, adding 4 to count
+Writing 874 to gigaTotal
+New character % at (24, 52)
+Count: 0, adding 1 to count
+Count: 1, adding 0 to count
+Count: 10, adding 9 to count
+Writing 109 to gigaTotal
+New character * at (24, 67)
+Count: 0, adding 1 to count
+Count: 1, adding 0 to count
+Count: 10, adding 8 to count
+Writing 108 to gigaTotal
+New character * at (24, 80)
+Count: 0, adding 2 to count
+Count: 2, adding 5 to count
+Count: 25, adding 2 to count
+Writing 252 to gigaTotal
+New character * at (22, 87)
+Count: 0, adding 1 to count
+Count: 1, adding 6 to count
+Count: 16, adding 8 to count
+Writing 168 to gigaTotal
+New character @ at (23, 91)
+Count: 0, adding 8 to count
+Count: 8, adding 8 to count
+Writing 88 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 7 to count
+New character * at (22, 100)
+Count: 97, adding 3 to count
+Writing 973 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 1 to count
+Count: 21, adding 4 to count
+New character * at (25, 7)
+Count: 0, adding 1 to count
+Count: 1, adding 6 to count
+Count: 16, adding 1 to count
+Writing 161 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 9 to count
+New character - at (24, 28)
+Count: 49, adding 9 to count
+Writing 499 to gigaTotal
+Count: 0, adding 4 to count
+New character * at (23, 63)
+Count: 4, adding 9 to count
+Count: 49, adding 7 to count
+Writing 497 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 1 to count
+Count: 41, adding 9 to count
+New character * at (23, 83)
+Count: 0, adding 5 to count
+Count: 5, adding 2 to count
+Writing 52 to gigaTotal
+Count: 0, adding 8 to count
+New character * at (25, 113)
+Count: 8, adding 3 to count
+Writing 83 to gigaTotal
+New character * at (24, 122)
+Count: 0, adding 5 to count
+Writing 5 to gigaTotal
+New character $ at (23, 136)
+Count: 0, adding 7 to count
+Count: 7, adding 3 to count
+Count: 73, adding 9 to count
+Writing 739 to gigaTotal
+New character * at (26, 40)
+Count: 0, adding 1 to count
+Count: 1, adding 5 to count
+Count: 15, adding 6 to count
+Writing 156 to gigaTotal
+New character * at (24, 67)
+Count: 0, adding 8 to count
+Count: 8, adding 8 to count
+Writing 88 to gigaTotal
+Count: 0, adding 7 to count
+New character * at (24, 80)
+Count: 7, adding 9 to count
+Count: 79, adding 8 to count
+Writing 798 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 0 to count
+Count: 20, adding 4 to count
+Count: 0, adding 4 to count
+Count: 4, adding 4 to count
+New character * at (24, 122)
+Count: 44, adding 4 to count
+Writing 444 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 7 to count
+New character - at (26, 132)
+Count: 97, adding 4 to count
+Writing 974 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 0 to count
+New character * at (27, 4)
+Count: 10, adding 8 to count
+Writing 108 to gigaTotal
+New character * at (25, 7)
+Count: 0, adding 3 to count
+Count: 3, adding 9 to count
+Writing 39 to gigaTotal
+New character * at (26, 26)
+Count: 0, adding 6 to count
+Count: 6, adding 5 to count
+Count: 65, adding 1 to count
+Writing 651 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 9 to count
+New character # at (26, 34)
+Count: 39, adding 5 to count
+Writing 395 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 6 to count
+New character * at (27, 57)
+Count: 96, adding 3 to count
+Writing 963 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 1 to count
+New character / at (27, 67)
+Count: 91, adding 1 to count
+Writing 911 to gigaTotal
+New character * at (27, 82)
+Count: 0, adding 8 to count
+Count: 8, adding 8 to count
+Count: 88, adding 6 to count
+Writing 886 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 3 to count
+Count: 53, adding 2 to count
+Count: 0, adding 4 to count
+Count: 4, adding 1 to count
+New character * at (25, 113)
+Count: 41, adding 7 to count
+Writing 417 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 2 to count
+New character * at (27, 18)
+Count: 92, adding 1 to count
+Writing 921 to gigaTotal
+New character * at (27, 18)
+Count: 0, adding 8 to count
+Count: 8, adding 2 to count
+Writing 82 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 2 to count
+New character * at (26, 26)
+Count: 32, adding 1 to count
+Writing 321 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 9 to count
+New character * at (26, 40)
+Count: 59, adding 7 to count
+Writing 597 to gigaTotal
+New character @ at (27, 43)
+Count: 0, adding 3 to count
+Count: 3, adding 2 to count
+Count: 32, adding 1 to count
+Writing 321 to gigaTotal
+Count: 0, adding 4 to count
+New character / at (28, 51)
+Count: 4, adding 0 to count
+Count: 40, adding 9 to count
+Writing 409 to gigaTotal
+New character * at (27, 57)
+Count: 0, adding 2 to count
+Count: 2, adding 5 to count
+Count: 25, adding 4 to count
+Writing 254 to gigaTotal
+New character * at (28, 76)
+Count: 0, adding 2 to count
+Count: 2, adding 3 to count
+Count: 23, adding 7 to count
+Writing 237 to gigaTotal
+New character = at (27, 134)
+Count: 0, adding 3 to count
+Count: 3, adding 0 to count
+Count: 30, adding 8 to count
+Writing 308 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 5 to count
+New character * at (27, 4)
+Count: 95, adding 4 to count
+Writing 954 to gigaTotal
+Count: 0, adding 1 to count
+New character # at (29, 8)
+Count: 1, adding 1 to count
+Count: 11, adding 0 to count
+Writing 110 to gigaTotal
+New character * at (29, 68)
+Count: 0, adding 4 to count
+Count: 4, adding 7 to count
+Count: 47, adding 8 to count
+Writing 478 to gigaTotal
+New character * at (27, 82)
+Count: 0, adding 4 to count
+Count: 4, adding 2 to count
+Count: 42, adding 3 to count
+Writing 423 to gigaTotal
+New character * at (29, 93)
+Count: 0, adding 9 to count
+Count: 9, adding 9 to count
+Count: 99, adding 0 to count
+Writing 990 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 8 to count
+Count: 18, adding 7 to count
+New character & at (27, 106)
+Count: 0, adding 4 to count
+Count: 4, adding 2 to count
+Count: 42, adding 9 to count
+Writing 429 to gigaTotal
+New character / at (27, 114)
+Count: 0, adding 5 to count
+Count: 5, adding 0 to count
+Count: 50, adding 6 to count
+Writing 506 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 1 to count
+New character * at (28, 130)
+Count: 61, adding 4 to count
+Writing 614 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 1 to count
+Count: 21, adding 1 to count
+Count: 0, adding 5 to count
+Count: 5, adding 7 to count
+Count: 57, adding 5 to count
+Count: 0, adding 8 to count
+Count: 8, adding 9 to count
+New character * at (28, 76)
+Count: 89, adding 3 to count
+Writing 893 to gigaTotal
+New character * at (30, 80)
+Count: 0, adding 1 to count
+Count: 1, adding 3 to count
+Writing 13 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 1 to count
+New character * at (29, 93)
+Count: 81, adding 1 to count
+Writing 811 to gigaTotal
+New character # at (28, 110)
+Count: 0, adding 6 to count
+Count: 6, adding 7 to count
+Count: 67, adding 3 to count
+Writing 673 to gigaTotal
+New character * at (30, 119)
+Count: 0, adding 8 to count
+Count: 8, adding 5 to count
+Writing 85 to gigaTotal
+New character * at (28, 130)
+Count: 0, adding 4 to count
+Count: 4, adding 6 to count
+Count: 46, adding 5 to count
+Writing 465 to gigaTotal
+New character * at (31, 18)
+Count: 0, adding 3 to count
+Count: 3, adding 9 to count
+Count: 39, adding 3 to count
+Writing 393 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 8 to count
+New character & at (31, 35)
+Count: 78, adding 2 to count
+Writing 782 to gigaTotal
+New character - at (30, 48)
+Count: 0, adding 1 to count
+Count: 1, adding 6 to count
+Count: 16, adding 6 to count
+Writing 166 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 3 to count
+New character * at (31, 66)
+Count: 83, adding 1 to count
+Writing 831 to gigaTotal
+New character * at (29, 68)
+Count: 0, adding 4 to count
+Count: 4, adding 0 to count
+Count: 40, adding 1 to count
+Writing 401 to gigaTotal
+New character @ at (31, 82)
+Count: 0, adding 3 to count
+Count: 3, adding 4 to count
+Count: 34, adding 8 to count
+Writing 348 to gigaTotal
+Count: 0, adding 4 to count
+New character * at (31, 107)
+Count: 4, adding 7 to count
+Count: 47, adding 7 to count
+Writing 477 to gigaTotal
+New character = at (31, 122)
+Count: 0, adding 8 to count
+Count: 8, adding 1 to count
+Count: 81, adding 9 to count
+Writing 819 to gigaTotal
+New character # at (30, 126)
+Count: 0, adding 2 to count
+Count: 2, adding 6 to count
+Count: 26, adding 1 to count
+Writing 261 to gigaTotal
+New character * at (32, 4)
+Count: 0, adding 7 to count
+Count: 7, adding 6 to count
+Count: 76, adding 1 to count
+Writing 761 to gigaTotal
+New character / at (32, 21)
+Count: 0, adding 5 to count
+Count: 5, adding 3 to count
+Count: 53, adding 6 to count
+Writing 536 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 4 to count
+Count: 54, adding 9 to count
+Count: 0, adding 4 to count
+Count: 4, adding 2 to count
+New character = at (30, 61)
+Count: 42, adding 7 to count
+Writing 427 to gigaTotal
+Count: 0, adding 9 to count
+New character * at (30, 80)
+Count: 9, adding 2 to count
+Count: 92, adding 4 to count
+Writing 924 to gigaTotal
+New character * at (32, 88)
+Count: 0, adding 2 to count
+Count: 2, adding 8 to count
+Count: 28, adding 3 to count
+Writing 283 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 0 to count
+Count: 0, adding 7 to count
+Count: 7, adding 9 to count
+New character * at (30, 119)
+Count: 79, adding 5 to count
+Writing 795 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 1 to count
+New character * at (31, 18)
+Count: 0, adding 6 to count
+Count: 6, adding 1 to count
+Count: 61, adding 7 to count
+Writing 617 to gigaTotal
+Count: 0, adding 9 to count
+New character + at (31, 30)
+Count: 9, adding 5 to count
+Count: 95, adding 4 to count
+Writing 954 to gigaTotal
+New character * at (31, 66)
+Count: 0, adding 2 to count
+Count: 2, adding 4 to count
+Count: 24, adding 8 to count
+Writing 248 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 7 to count
+Count: 77, adding 6 to count
+Count: 0, adding 4 to count
+Count: 4, adding 0 to count
+New character * at (31, 107)
+Count: 40, adding 7 to count
+Writing 407 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 5 to count
+New character * at (32, 4)
+Count: 75, adding 6 to count
+Writing 756 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 8 to count
+New character - at (32, 9)
+Count: 98, adding 6 to count
+Writing 986 to gigaTotal
+Count: 0, adding 3 to count
+New character * at (34, 25)
+Count: 3, adding 2 to count
+Count: 32, adding 6 to count
+Writing 326 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 1 to count
+New character * at (34, 37)
+Count: 51, adding 6 to count
+Writing 516 to gigaTotal
+New character + at (34, 49)
+Count: 0, adding 3 to count
+Count: 3, adding 8 to count
+Count: 38, adding 7 to count
+Writing 387 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 4 to count
+Count: 34, adding 2 to count
+Count: 0, adding 3 to count
+Count: 3, adding 3 to count
+New character * at (34, 64)
+Count: 33, adding 6 to count
+Writing 336 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 4 to count
+New character = at (33, 79)
+Count: 14, adding 2 to count
+Writing 142 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 2 to count
+Count: 82, adding 3 to count
+Count: 0, adding 3 to count
+New character * at (32, 88)
+Count: 3, adding 5 to count
+Count: 35, adding 4 to count
+Writing 354 to gigaTotal
+New character * at (34, 93)
+Count: 0, adding 2 to count
+Count: 2, adding 3 to count
+Count: 23, adding 3 to count
+Writing 233 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 2 to count
+New character * at (34, 124)
+Count: 52, adding 3 to count
+Writing 523 to gigaTotal
+New character = at (34, 132)
+Count: 0, adding 3 to count
+Count: 3, adding 3 to count
+Count: 33, adding 6 to count
+Writing 336 to gigaTotal
+New character + at (34, 10)
+Count: 0, adding 4 to count
+Count: 4, adding 9 to count
+Count: 49, adding 5 to count
+Writing 495 to gigaTotal
+New character * at (35, 16)
+Count: 0, adding 8 to count
+Count: 8, adding 5 to count
+Count: 85, adding 6 to count
+Writing 856 to gigaTotal
+New character $ at (35, 30)
+Count: 0, adding 3 to count
+Count: 3, adding 6 to count
+Count: 36, adding 3 to count
+Writing 363 to gigaTotal
+New character * at (34, 37)
+Count: 0, adding 1 to count
+Count: 1, adding 8 to count
+Count: 18, adding 8 to count
+Writing 188 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 7 to count
+New character * at (35, 45)
+Count: 17, adding 7 to count
+Writing 177 to gigaTotal
+New character * at (35, 45)
+Count: 0, adding 4 to count
+Writing 4 to gigaTotal
+New character = at (34, 69)
+Count: 0, adding 5 to count
+Count: 5, adding 1 to count
+Count: 51, adding 2 to count
+Writing 512 to gigaTotal
+Count: 0, adding 8 to count
+New character * at (35, 99)
+Count: 8, adding 3 to count
+Count: 83, adding 5 to count
+Writing 835 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 5 to count
+New character $ at (33, 109)
+Count: 45, adding 8 to count
+Writing 458 to gigaTotal
+New character * at (35, 112)
+Count: 0, adding 3 to count
+Count: 3, adding 4 to count
+Count: 34, adding 8 to count
+Writing 348 to gigaTotal
+New character * at (35, 136)
+Count: 0, adding 4 to count
+Count: 4, adding 4 to count
+Count: 44, adding 5 to count
+Writing 445 to gigaTotal
+New character * at (34, 25)
+Count: 0, adding 6 to count
+Count: 6, adding 3 to count
+Count: 63, adding 8 to count
+Writing 638 to gigaTotal
+Count: 0, adding 2 to count
+New character @ at (36, 55)
+Count: 2, adding 1 to count
+Count: 21, adding 4 to count
+Writing 214 to gigaTotal
+New character * at (34, 64)
+Count: 0, adding 1 to count
+Count: 1, adding 9 to count
+Count: 19, adding 0 to count
+Writing 190 to gigaTotal
+New character # at (36, 74)
+Count: 0, adding 2 to count
+Count: 2, adding 9 to count
+Count: 29, adding 3 to count
+Writing 293 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 2 to count
+New character * at (34, 93)
+Count: 12, adding 8 to count
+Writing 128 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 6 to count
+Count: 16, adding 7 to count
+New character * at (34, 124)
+Count: 0, adding 7 to count
+Count: 7, adding 1 to count
+Count: 71, adding 1 to count
+Writing 711 to gigaTotal
+New character * at (37, 3)
+Count: 0, adding 5 to count
+Count: 5, adding 6 to count
+Count: 56, adding 5 to count
+Writing 565 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 4 to count
+New character * at (35, 16)
+Count: 84, adding 2 to count
+Writing 842 to gigaTotal
+Count: 0, adding 1 to count
+New character & at (35, 88)
+Count: 1, adding 9 to count
+Count: 19, adding 5 to count
+Writing 195 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 8 to count
+New character * at (35, 99)
+Count: 98, adding 4 to count
+Writing 984 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 0 to count
+New character # at (36, 107)
+Count: 20, adding 1 to count
+Writing 201 to gigaTotal
+New character * at (35, 112)
+Count: 0, adding 5 to count
+Count: 5, adding 3 to count
+Count: 53, adding 0 to count
+Writing 530 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 4 to count
+New character * at (35, 136)
+Count: 64, adding 0 to count
+Writing 640 to gigaTotal
+Count: 0, adding 2 to count
+New character # at (36, 33)
+Count: 2, adding 8 to count
+Count: 28, adding 9 to count
+Writing 289 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 0 to count
+Count: 40, adding 1 to count
+New character * at (38, 45)
+Count: 0, adding 2 to count
+Count: 2, adding 5 to count
+Count: 25, adding 1 to count
+Writing 251 to gigaTotal
+New character & at (38, 51)
+Count: 0, adding 6 to count
+Count: 6, adding 2 to count
+Count: 62, adding 6 to count
+Writing 626 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 9 to count
+New character * at (37, 67)
+Count: 19, adding 8 to count
+Writing 198 to gigaTotal
+New character = at (36, 71)
+Count: 0, adding 2 to count
+Count: 2, adding 7 to count
+Count: 27, adding 7 to count
+Writing 277 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 1 to count
+Count: 71, adding 9 to count
+New character * at (38, 129)
+Count: 0, adding 9 to count
+Count: 9, adding 6 to count
+Count: 96, adding 4 to count
+Writing 964 to gigaTotal
+New character * at (37, 3)
+Count: 0, adding 3 to count
+Count: 3, adding 9 to count
+Count: 39, adding 7 to count
+Writing 397 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 1 to count
+New character + at (38, 11)
+Count: 91, adding 0 to count
+Writing 910 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 3 to count
+New character $ at (39, 60)
+Count: 93, adding 6 to count
+Writing 936 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 9 to count
+New character $ at (37, 77)
+Count: 89, adding 3 to count
+Writing 893 to gigaTotal
+New character % at (37, 92)
+Count: 0, adding 2 to count
+Count: 2, adding 4 to count
+Count: 24, adding 9 to count
+Writing 249 to gigaTotal
+New character # at (38, 99)
+Count: 0, adding 3 to count
+Count: 3, adding 3 to count
+Count: 33, adding 4 to count
+Writing 334 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 9 to count
+New character * at (39, 107)
+Count: 29, adding 9 to count
+Writing 299 to gigaTotal
+New character / at (38, 110)
+Count: 0, adding 5 to count
+Count: 5, adding 0 to count
+Count: 50, adding 3 to count
+Writing 503 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 1 to count
+New character - at (39, 33)
+Count: 91, adding 8 to count
+Writing 918 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 2 to count
+New character $ at (38, 40)
+Count: 42, adding 0 to count
+Writing 420 to gigaTotal
+Count: 0, adding 4 to count
+New character * at (38, 45)
+Count: 4, adding 0 to count
+Count: 40, adding 5 to count
+Writing 405 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 2 to count
+Count: 22, adding 6 to count
+Count: 0, adding 7 to count
+Count: 7, adding 2 to count
+Count: 72, adding 9 to count
+New character / at (38, 79)
+Count: 0, adding 9 to count
+Count: 9, adding 1 to count
+Count: 91, adding 0 to count
+Writing 910 to gigaTotal
+Count: 0, adding 8 to count
+New character / at (40, 119)
+Count: 8, adding 9 to count
+Count: 89, adding 2 to count
+Writing 892 to gigaTotal
+New character * at (38, 124)
+Count: 0, adding 7 to count
+Count: 7, adding 6 to count
+Writing 76 to gigaTotal
+New character * at (38, 129)
+Count: 0, adding 5 to count
+Count: 5, adding 1 to count
+Count: 51, adding 1 to count
+Writing 511 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 7 to count
+New character = at (40, 6)
+Count: 67, adding 4 to count
+Writing 674 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 8 to count
+New character * at (40, 13)
+Count: 28, adding 2 to count
+Writing 282 to gigaTotal
+New character * at (40, 13)
+Count: 0, adding 4 to count
+Count: 4, adding 1 to count
+Count: 41, adding 8 to count
+Writing 418 to gigaTotal
+New character * at (41, 71)
+Count: 0, adding 9 to count
+Count: 9, adding 6 to count
+Count: 96, adding 2 to count
+Writing 962 to gigaTotal
+New character = at (40, 85)
+Count: 0, adding 6 to count
+Count: 6, adding 9 to count
+Count: 69, adding 3 to count
+Writing 693 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 6 to count
+New character * at (41, 97)
+Count: 76, adding 0 to count
+Writing 760 to gigaTotal
+New character * at (39, 107)
+Count: 0, adding 4 to count
+Count: 4, adding 9 to count
+Count: 49, adding 9 to count
+Writing 499 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 0 to count
+New character / at (40, 114)
+Count: 90, adding 8 to count
+Writing 908 to gigaTotal
+New character * at (40, 136)
+Count: 0, adding 9 to count
+Count: 9, adding 2 to count
+Count: 92, adding 6 to count
+Writing 926 to gigaTotal
+New character # at (40, 23)
+Count: 0, adding 9 to count
+Count: 9, adding 0 to count
+Count: 90, adding 6 to count
+Writing 906 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 8 to count
+New character * at (41, 40)
+Count: 48, adding 5 to count
+Writing 485 to gigaTotal
+Count: 0, adding 9 to count
+Count: 0, adding 5 to count
+Count: 5, adding 6 to count
+New character * at (41, 71)
+Count: 56, adding 4 to count
+Writing 564 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 3 to count
+Count: 13, adding 2 to count
+Count: 0, adding 1 to count
+Count: 1, adding 3 to count
+New character $ at (40, 127)
+Count: 13, adding 7 to count
+Writing 137 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 0 to count
+New character / at (41, 30)
+Count: 30, adding 0 to count
+Writing 300 to gigaTotal
+New character * at (41, 40)
+Count: 0, adding 9 to count
+Count: 9, adding 6 to count
+Count: 96, adding 0 to count
+Writing 960 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 0 to count
+New character * at (41, 51)
+Count: 50, adding 3 to count
+Writing 503 to gigaTotal
+New character * at (41, 51)
+Count: 0, adding 5 to count
+Count: 5, adding 7 to count
+Count: 57, adding 2 to count
+Writing 572 to gigaTotal
+Count: 0, adding 4 to count
+New character + at (41, 63)
+Count: 4, adding 9 to count
+Count: 49, adding 0 to count
+Writing 490 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 0 to count
+New character * at (42, 79)
+Count: 60, adding 8 to count
+Writing 608 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 0 to count
+Count: 50, adding 4 to count
+New character * at (41, 97)
+Count: 0, adding 9 to count
+Count: 9, adding 7 to count
+Count: 97, adding 9 to count
+Writing 979 to gigaTotal
+New character * at (43, 100)
+Count: 0, adding 2 to count
+Count: 2, adding 5 to count
+Writing 25 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 3 to count
+Count: 23, adding 0 to count
+Count: 0, adding 9 to count
+Count: 9, adding 2 to count
+New character # at (43, 132)
+Count: 92, adding 5 to count
+Writing 925 to gigaTotal
+Count: 0, adding 6 to count
+New character * at (44, 4)
+Count: 6, adding 7 to count
+Count: 67, adding 3 to count
+Writing 673 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 8 to count
+Count: 78, adding 7 to count
+Count: 0, adding 4 to count
+Count: 4, adding 3 to count
+New character * at (43, 69)
+Count: 43, adding 3 to count
+Writing 433 to gigaTotal
+New character * at (43, 69)
+Count: 0, adding 1 to count
+Count: 1, adding 6 to count
+Count: 16, adding 4 to count
+Writing 164 to gigaTotal
+New character * at (42, 79)
+Count: 0, adding 9 to count
+Count: 9, adding 6 to count
+Count: 96, adding 1 to count
+Writing 961 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 5 to count
+New character * at (42, 87)
+Count: 95, adding 6 to count
+Writing 956 to gigaTotal
+New character * at (42, 87)
+Count: 0, adding 5 to count
+Count: 5, adding 9 to count
+Count: 59, adding 6 to count
+Writing 596 to gigaTotal
+New character * at (44, 104)
+Count: 0, adding 6 to count
+Count: 6, adding 1 to count
+Count: 61, adding 0 to count
+Writing 610 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 4 to count
+Count: 34, adding 0 to count
+New character @ at (42, 135)
+Count: 0, adding 7 to count
+Count: 7, adding 6 to count
+Count: 76, adding 5 to count
+Writing 765 to gigaTotal
+New character * at (44, 26)
+Count: 0, adding 8 to count
+Writing 8 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 1 to count
+New character * at (44, 42)
+Count: 21, adding 7 to count
+Writing 217 to gigaTotal
+New character * at (44, 42)
+Count: 0, adding 8 to count
+Count: 8, adding 0 to count
+Count: 80, adding 5 to count
+Writing 805 to gigaTotal
+New character * at (43, 100)
+Count: 0, adding 4 to count
+Count: 4, adding 2 to count
+Count: 42, adding 7 to count
+Writing 427 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 8 to count
+New character * at (44, 116)
+Count: 68, adding 0 to count
+Writing 680 to gigaTotal
+New character * at (44, 4)
+Count: 0, adding 2 to count
+Count: 2, adding 4 to count
+Count: 24, adding 7 to count
+Writing 247 to gigaTotal
+New character * at (46, 22)
+Count: 0, adding 6 to count
+Count: 6, adding 9 to count
+Count: 69, adding 9 to count
+Writing 699 to gigaTotal
+New character * at (44, 26)
+Count: 0, adding 8 to count
+Count: 8, adding 4 to count
+Count: 84, adding 8 to count
+Writing 848 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 5 to count
+Count: 65, adding 1 to count
+Count: 0, adding 1 to count
+Count: 1, adding 3 to count
+New character * at (44, 64)
+Count: 13, adding 7 to count
+Writing 137 to gigaTotal
+New character * at (44, 64)
+Count: 0, adding 8 to count
+Count: 8, adding 7 to count
+Count: 87, adding 0 to count
+Writing 870 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 7 to count
+Count: 67, adding 3 to count
+New character % at (46, 85)
+Count: 0, adding 6 to count
+Count: 6, adding 9 to count
+Count: 69, adding 6 to count
+Writing 696 to gigaTotal
+New character * at (44, 104)
+Count: 0, adding 6 to count
+Count: 6, adding 6 to count
+Count: 66, adding 0 to count
+Writing 660 to gigaTotal
+New character * at (44, 116)
+Count: 0, adding 4 to count
+Count: 4, adding 3 to count
+Count: 43, adding 2 to count
+Writing 432 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 9 to count
+New character = at (45, 126)
+Count: 59, adding 3 to count
+Writing 593 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 0 to count
+Count: 90, adding 6 to count
+New character / at (47, 9)
+Count: 0, adding 2 to count
+Count: 2, adding 0 to count
+Count: 20, adding 9 to count
+Writing 209 to gigaTotal
+New character * at (47, 42)
+Count: 0, adding 3 to count
+Count: 3, adding 2 to count
+Count: 32, adding 7 to count
+Writing 327 to gigaTotal
+Count: 0, adding 3 to count
+Count: 0, adding 4 to count
+Count: 4, adding 8 to count
+New character * at (48, 18)
+Count: 48, adding 2 to count
+Writing 482 to gigaTotal
+New character * at (46, 22)
+Count: 0, adding 7 to count
+Count: 7, adding 0 to count
+Count: 70, adding 8 to count
+Writing 708 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 8 to count
+New character % at (48, 30)
+Count: 78, adding 2 to count
+Writing 782 to gigaTotal
+New character * at (48, 53)
+Count: 0, adding 5 to count
+Count: 5, adding 2 to count
+Count: 52, adding 0 to count
+Writing 520 to gigaTotal
+New character % at (46, 74)
+Count: 0, adding 9 to count
+Count: 9, adding 4 to count
+Count: 94, adding 7 to count
+Writing 947 to gigaTotal
+New character & at (48, 82)
+Count: 0, adding 3 to count
+Count: 3, adding 9 to count
+Count: 39, adding 0 to count
+Writing 390 to gigaTotal
+New character # at (48, 87)
+Count: 0, adding 4 to count
+Count: 4, adding 2 to count
+Count: 42, adding 0 to count
+Writing 420 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 5 to count
+New character * at (48, 113)
+Count: 45, adding 6 to count
+Writing 456 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 6 to count
+New character * at (47, 121)
+Count: 66, adding 7 to count
+Writing 667 to gigaTotal
+New character * at (47, 121)
+Count: 0, adding 5 to count
+Count: 5, adding 4 to count
+Count: 54, adding 4 to count
+Writing 544 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 3 to count
+Count: 73, adding 2 to count
+Count: 0, adding 3 to count
+Count: 3, adding 0 to count
+New character % at (47, 5)
+Count: 30, adding 5 to count
+Writing 305 to gigaTotal
+New character % at (49, 36)
+Count: 0, adding 2 to count
+Count: 2, adding 2 to count
+Count: 22, adding 0 to count
+Writing 220 to gigaTotal
+New character * at (47, 42)
+Count: 0, adding 4 to count
+Count: 4, adding 1 to count
+Count: 41, adding 9 to count
+Writing 419 to gigaTotal
+Count: 0, adding 6 to count
+New character * at (49, 50)
+Count: 6, adding 0 to count
+Count: 60, adding 8 to count
+Writing 608 to gigaTotal
+New character * at (49, 68)
+Count: 0, adding 2 to count
+Count: 2, adding 8 to count
+Count: 28, adding 2 to count
+Writing 282 to gigaTotal
+New character % at (47, 95)
+Count: 0, adding 2 to count
+Count: 2, adding 6 to count
+Count: 26, adding 9 to count
+Writing 269 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 1 to count
+New character - at (48, 108)
+Count: 11, adding 7 to count
+Writing 117 to gigaTotal
+New character * at (48, 113)
+Count: 0, adding 8 to count
+Count: 8, adding 3 to count
+Count: 83, adding 4 to count
+Writing 834 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 4 to count
+New character # at (48, 129)
+Count: 54, adding 6 to count
+Writing 546 to gigaTotal
+New character % at (48, 12)
+Count: 0, adding 1 to count
+Count: 1, adding 3 to count
+Count: 13, adding 7 to count
+Writing 137 to gigaTotal
+New character * at (48, 18)
+Count: 0, adding 1 to count
+Count: 1, adding 4 to count
+Count: 14, adding 5 to count
+Writing 145 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 2 to count
+New character % at (48, 25)
+Count: 12, adding 8 to count
+Writing 128 to gigaTotal
+New character * at (48, 53)
+Count: 0, adding 5 to count
+Count: 5, adding 5 to count
+Count: 55, adding 5 to count
+Writing 555 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 8 to count
+Count: 98, adding 8 to count
+Count: 0, adding 2 to count
+New character * at (51, 10)
+Count: 2, adding 9 to count
+Count: 29, adding 9 to count
+Writing 299 to gigaTotal
+Count: 0, adding 9 to count
+New character % at (51, 34)
+Count: 9, adding 4 to count
+Count: 94, adding 0 to count
+Writing 940 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 7 to count
+Count: 97, adding 8 to count
+Count: 0, adding 9 to count
+Count: 9, adding 7 to count
+New character * at (49, 50)
+Count: 97, adding 1 to count
+Writing 971 to gigaTotal
+New character * at (51, 59)
+Count: 0, adding 4 to count
+Count: 4, adding 3 to count
+Count: 43, adding 7 to count
+Writing 437 to gigaTotal
+New character * at (49, 68)
+Count: 0, adding 7 to count
+Count: 7, adding 9 to count
+Writing 79 to gigaTotal
+Count: 0, adding 2 to count
+New character = at (49, 92)
+Count: 2, adding 3 to count
+Count: 23, adding 8 to count
+Writing 238 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 9 to count
+New character * at (51, 97)
+Count: 49, adding 7 to count
+Writing 497 to gigaTotal
+New character * at (51, 101)
+Count: 0, adding 4 to count
+Count: 4, adding 9 to count
+Count: 49, adding 0 to count
+Writing 490 to gigaTotal
+New character * at (51, 105)
+Count: 0, adding 9 to count
+Count: 9, adding 1 to count
+Count: 91, adding 2 to count
+Writing 912 to gigaTotal
+New character * at (51, 108)
+Count: 0, adding 5 to count
+Count: 5, adding 3 to count
+Count: 53, adding 9 to count
+Writing 539 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 5 to count
+Count: 0, adding 1 to count
+Count: 1, adding 5 to count
+New character - at (50, 131)
+Count: 15, adding 7 to count
+Writing 157 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 6 to count
+Count: 66, adding 0 to count
+Count: 0, adding 3 to count
+Count: 3, adding 3 to count
+Count: 33, adding 5 to count
+Count: 0, adding 2 to count
+Count: 2, adding 2 to count
+New character * at (52, 65)
+Count: 22, adding 4 to count
+Writing 224 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 5 to count
+New character * at (50, 80)
+Count: 55, adding 6 to count
+Writing 556 to gigaTotal
+New character * at (50, 80)
+Count: 0, adding 3 to count
+Count: 3, adding 6 to count
+Count: 36, adding 8 to count
+Writing 368 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 5 to count
+New character * at (52, 115)
+Count: 55, adding 1 to count
+Writing 551 to gigaTotal
+New character / at (52, 136)
+Count: 0, adding 4 to count
+Count: 4, adding 7 to count
+Count: 47, adding 4 to count
+Count: 474, adding 2 to count
+Count: 4742, adding 9 to count
+Count: 47429, adding 1 to count
+Writing 474291 to gigaTotal
+New character * at (53, 4)
+Count: 0, adding 2 to count
+Count: 2, adding 1 to count
+Count: 21, adding 7 to count
+Writing 217 to gigaTotal
+New character * at (51, 10)
+Count: 0, adding 1 to count
+Writing 1 to gigaTotal
+New character / at (51, 30)
+Count: 0, adding 3 to count
+Count: 3, adding 2 to count
+Count: 32, adding 1 to count
+Writing 321 to gigaTotal
+New character * at (51, 59)
+Count: 0, adding 1 to count
+Count: 1, adding 7 to count
+Writing 17 to gigaTotal
+New character @ at (51, 73)
+Count: 0, adding 8 to count
+Count: 8, adding 1 to count
+Count: 81, adding 0 to count
+Writing 810 to gigaTotal
+New character * at (53, 89)
+Count: 0, adding 4 to count
+Count: 4, adding 1 to count
+Count: 41, adding 1 to count
+Writing 411 to gigaTotal
+New character * at (51, 97)
+Count: 0, adding 5 to count
+Count: 5, adding 7 to count
+Count: 57, adding 3 to count
+Writing 573 to gigaTotal
+New character * at (51, 101)
+Count: 0, adding 6 to count
+Count: 6, adding 8 to count
+Count: 68, adding 8 to count
+Writing 688 to gigaTotal
+New character * at (51, 108)
+Count: 0, adding 2 to count
+Count: 2, adding 7 to count
+Count: 27, adding 3 to count
+Writing 273 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 0 to count
+New character * at (54, 25)
+Count: 70, adding 1 to count
+Writing 701 to gigaTotal
+New character - at (52, 38)
+Count: 0, adding 7 to count
+Count: 7, adding 8 to count
+Count: 78, adding 1 to count
+Writing 781 to gigaTotal
+New character * at (52, 65)
+Count: 0, adding 7 to count
+Count: 7, adding 6 to count
+Count: 76, adding 1 to count
+Writing 761 to gigaTotal
+New character / at (54, 79)
+Count: 0, adding 3 to count
+Count: 3, adding 1 to count
+Count: 31, adding 5 to count
+Writing 315 to gigaTotal
+New character * at (52, 115)
+Count: 0, adding 8 to count
+Count: 8, adding 9 to count
+Count: 89, adding 5 to count
+Writing 895 to gigaTotal
+Count: 0, adding 4 to count
+New character $ at (52, 120)
+Count: 4, adding 4 to count
+Count: 44, adding 5 to count
+Writing 445 to gigaTotal
+New character = at (53, 14)
+Count: 0, adding 4 to count
+Count: 4, adding 6 to count
+Count: 46, adding 7 to count
+Writing 467 to gigaTotal
+Count: 0, adding 4 to count
+New character * at (53, 43)
+Count: 4, adding 4 to count
+Count: 44, adding 4 to count
+Writing 444 to gigaTotal
+New character * at (53, 89)
+Count: 0, adding 9 to count
+Count: 9, adding 2 to count
+Count: 92, adding 5 to count
+Writing 925 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 3 to count
+New character + at (54, 98)
+Count: 53, adding 0 to count
+Writing 530 to gigaTotal
+New character $ at (55, 104)
+Count: 0, adding 5 to count
+Count: 5, adding 0 to count
+Writing 50 to gigaTotal
+New character @ at (56, 18)
+Count: 0, adding 5 to count
+Count: 5, adding 4 to count
+Count: 54, adding 5 to count
+Writing 545 to gigaTotal
+New character * at (54, 25)
+Count: 0, adding 9 to count
+Count: 9, adding 7 to count
+Count: 97, adding 0 to count
+Writing 970 to gigaTotal
+New character * at (56, 48)
+Count: 0, adding 7 to count
+Count: 7, adding 6 to count
+Count: 76, adding 7 to count
+Writing 767 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 4 to count
+Count: 54, adding 3 to count
+Count: 0, adding 9 to count
+Count: 9, adding 5 to count
+New character / at (54, 76)
+Count: 95, adding 3 to count
+Writing 953 to gigaTotal
+New character * at (56, 83)
+Count: 0, adding 3 to count
+Count: 3, adding 8 to count
+Count: 38, adding 9 to count
+Writing 389 to gigaTotal
+New character - at (54, 110)
+Count: 0, adding 3 to count
+Count: 3, adding 9 to count
+Count: 39, adding 3 to count
+Writing 393 to gigaTotal
+New character & at (56, 124)
+Count: 0, adding 1 to count
+Count: 1, adding 7 to count
+Writing 17 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 3 to count
+Count: 0, adding 6 to count
+Count: 6, adding 6 to count
+New character / at (57, 4)
+Count: 66, adding 8 to count
+Writing 668 to gigaTotal
+New character + at (55, 8)
+Count: 0, adding 5 to count
+Count: 5, adding 7 to count
+Count: 57, adding 7 to count
+Writing 577 to gigaTotal
+Count: 0, adding 8 to count
+New character * at (57, 33)
+Count: 8, adding 0 to count
+Count: 80, adding 3 to count
+Writing 803 to gigaTotal
+New character / at (55, 38)
+Count: 0, adding 9 to count
+Count: 9, adding 3 to count
+Count: 93, adding 1 to count
+Writing 931 to gigaTotal
+New character @ at (57, 60)
+Count: 0, adding 8 to count
+Count: 8, adding 2 to count
+Count: 82, adding 9 to count
+Writing 829 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 2 to count
+New character * at (56, 69)
+Count: 22, adding 6 to count
+Writing 226 to gigaTotal
+New character * at (57, 95)
+Count: 0, adding 1 to count
+Count: 1, adding 1 to count
+Count: 11, adding 4 to count
+Writing 114 to gigaTotal
+New character # at (55, 119)
+Count: 0, adding 9 to count
+Writing 9 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 9 to count
+Count: 29, adding 8 to count
+Count: 0, adding 2 to count
+New character & at (56, 15)
+Count: 2, adding 3 to count
+Count: 23, adding 9 to count
+Writing 239 to gigaTotal
+New character * at (58, 22)
+Count: 0, adding 1 to count
+Count: 1, adding 0 to count
+Count: 10, adding 1 to count
+Writing 101 to gigaTotal
+Count: 0, adding 4 to count
+New character @ at (58, 54)
+Count: 4, adding 1 to count
+Count: 41, adding 9 to count
+Writing 419 to gigaTotal
+New character * at (56, 69)
+Count: 0, adding 9 to count
+Count: 9, adding 2 to count
+Count: 92, adding 2 to count
+Writing 922 to gigaTotal
+New character * at (58, 75)
+Count: 0, adding 1 to count
+Count: 1, adding 7 to count
+Writing 17 to gigaTotal
+New character * at (56, 83)
+Count: 0, adding 5 to count
+Count: 5, adding 9 to count
+Count: 59, adding 8 to count
+Writing 598 to gigaTotal
+New character - at (56, 91)
+Count: 0, adding 7 to count
+Count: 7, adding 0 to count
+Count: 70, adding 4 to count
+Writing 704 to gigaTotal
+New character = at (56, 115)
+Count: 0, adding 7 to count
+Count: 7, adding 2 to count
+Count: 72, adding 2 to count
+Writing 722 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 6 to count
+New character - at (58, 131)
+Count: 76, adding 8 to count
+Writing 768 to gigaTotal
+Count: 0, adding 7 to count
+New character = at (59, 19)
+Count: 7, adding 7 to count
+Count: 77, adding 6 to count
+Writing 776 to gigaTotal
+New character & at (57, 29)
+Count: 0, adding 1 to count
+Count: 1, adding 5 to count
+Count: 15, adding 6 to count
+Writing 156 to gigaTotal
+New character * at (57, 33)
+Count: 0, adding 1 to count
+Count: 1, adding 6 to count
+Count: 16, adding 3 to count
+Writing 163 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 1 to count
+New character # at (59, 51)
+Count: 41, adding 9 to count
+Writing 419 to gigaTotal
+New character * at (57, 95)
+Count: 0, adding 4 to count
+Count: 4, adding 6 to count
+Count: 46, adding 5 to count
+Writing 465 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 0 to count
+New character = at (58, 124)
+Count: 20, adding 6 to count
+Writing 206 to gigaTotal
+New character & at (60, 4)
+Count: 0, adding 5 to count
+Count: 5, adding 0 to count
+Count: 50, adding 6 to count
+Writing 506 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 9 to count
+New character - at (59, 11)
+Count: 89, adding 1 to count
+Writing 891 to gigaTotal
+New character * at (58, 22)
+Count: 0, adding 4 to count
+Count: 4, adding 9 to count
+Count: 49, adding 9 to count
+Writing 499 to gigaTotal
+New character * at (60, 61)
+Count: 0, adding 9 to count
+Count: 9, adding 9 to count
+Count: 99, adding 2 to count
+Writing 992 to gigaTotal
+New character / at (60, 66)
+Count: 0, adding 6 to count
+Count: 6, adding 6 to count
+Count: 66, adding 4 to count
+Writing 664 to gigaTotal
+New character * at (58, 75)
+Count: 0, adding 2 to count
+Count: 2, adding 7 to count
+Count: 27, adding 0 to count
+Writing 270 to gigaTotal
+New character * at (59, 83)
+Count: 0, adding 3 to count
+Count: 3, adding 9 to count
+Count: 39, adding 5 to count
+Writing 395 to gigaTotal
+New character + at (58, 100)
+Count: 0, adding 5 to count
+Count: 5, adding 1 to count
+Count: 51, adding 9 to count
+Writing 519 to gigaTotal
+New character & at (60, 110)
+Count: 0, adding 6 to count
+Count: 6, adding 6 to count
+Count: 66, adding 6 to count
+Writing 666 to gigaTotal
+New character * at (60, 127)
+Count: 0, adding 3 to count
+Count: 3, adding 7 to count
+Writing 37 to gigaTotal
+New character * at (58, 133)
+Count: 0, adding 5 to count
+Count: 5, adding 6 to count
+Count: 56, adding 6 to count
+Writing 566 to gigaTotal
+New character * at (61, 12)
+Count: 0, adding 2 to count
+Count: 2, adding 5 to count
+Count: 25, adding 1 to count
+Writing 251 to gigaTotal
+Count: 0, adding 6 to count
+New character # at (61, 35)
+Count: 6, adding 7 to count
+Count: 67, adding 1 to count
+Writing 671 to gigaTotal
+New character @ at (59, 44)
+Count: 0, adding 4 to count
+Count: 4, adding 7 to count
+Count: 47, adding 4 to count
+Writing 474 to gigaTotal
+New character - at (61, 55)
+Count: 0, adding 4 to count
+Count: 4, adding 2 to count
+Count: 42, adding 9 to count
+Writing 429 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 7 to count
+New character * at (59, 83)
+Count: 77, adding 6 to count
+Writing 776 to gigaTotal
+New character * at (61, 105)
+Count: 0, adding 2 to count
+Count: 2, adding 6 to count
+Count: 26, adding 0 to count
+Writing 260 to gigaTotal
+New character * at (61, 114)
+Count: 0, adding 3 to count
+Count: 3, adding 1 to count
+Count: 31, adding 9 to count
+Writing 319 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 1 to count
+New character * at (60, 127)
+Count: 41, adding 0 to count
+Writing 410 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 6 to count
+Count: 0, adding 7 to count
+Count: 7, adding 7 to count
+New character * at (62, 26)
+Count: 77, adding 2 to count
+Writing 772 to gigaTotal
+New character = at (60, 37)
+Count: 0, adding 4 to count
+Count: 4, adding 4 to count
+Count: 44, adding 1 to count
+Writing 441 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 4 to count
+New character = at (61, 52)
+Count: 34, adding 0 to count
+Writing 340 to gigaTotal
+New character * at (60, 61)
+Count: 0, adding 3 to count
+Count: 3, adding 9 to count
+Count: 39, adding 3 to count
+Writing 393 to gigaTotal
+New character & at (62, 68)
+Count: 0, adding 4 to count
+Count: 4, adding 5 to count
+Count: 45, adding 2 to count
+Writing 452 to gigaTotal
+New character # at (60, 92)
+Count: 0, adding 2 to count
+Count: 2, adding 1 to count
+Count: 21, adding 9 to count
+Writing 219 to gigaTotal
+New character $ at (62, 100)
+Count: 0, adding 4 to count
+Count: 4, adding 8 to count
+Count: 48, adding 7 to count
+Writing 487 to gigaTotal
+New character * at (62, 120)
+Count: 0, adding 6 to count
+Count: 6, adding 9 to count
+Count: 69, adding 7 to count
+Writing 697 to gigaTotal
+New character = at (63, 7)
+Count: 0, adding 9 to count
+Count: 9, adding 9 to count
+Count: 99, adding 3 to count
+Writing 993 to gigaTotal
+Count: 0, adding 5 to count
+New character * at (61, 12)
+Count: 5, adding 0 to count
+Count: 50, adding 7 to count
+Writing 507 to gigaTotal
+New character / at (61, 76)
+Count: 0, adding 5 to count
+Count: 5, adding 1 to count
+Count: 51, adding 5 to count
+Writing 515 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 3 to count
+New character * at (63, 82)
+Count: 23, adding 1 to count
+Writing 231 to gigaTotal
+New character # at (62, 84)
+Count: 0, adding 9 to count
+Count: 9, adding 8 to count
+Count: 98, adding 8 to count
+Writing 988 to gigaTotal
+New character * at (61, 105)
+Count: 0, adding 5 to count
+Count: 5, adding 1 to count
+Count: 51, adding 9 to count
+Writing 519 to gigaTotal
+Count: 0, adding 4 to count
+New character * at (61, 114)
+Count: 4, adding 3 to count
+Count: 43, adding 5 to count
+Writing 435 to gigaTotal
+Count: 0, adding 7 to count
+New character * at (63, 134)
+Count: 7, adding 5 to count
+Count: 75, adding 3 to count
+Writing 753 to gigaTotal
+Count: 0, adding 1 to count
+New character * at (64, 4)
+Count: 1, adding 7 to count
+Count: 17, adding 7 to count
+Writing 177 to gigaTotal
+New character * at (63, 15)
+Count: 0, adding 1 to count
+Count: 1, adding 7 to count
+Writing 17 to gigaTotal
+New character * at (62, 26)
+Count: 0, adding 3 to count
+Count: 3, adding 4 to count
+Count: 34, adding 1 to count
+Writing 341 to gigaTotal
+Count: 0, adding 6 to count
+New character * at (64, 34)
+Count: 6, adding 2 to count
+Writing 62 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 6 to count
+New character * at (64, 42)
+Count: 36, adding 1 to count
+Writing 361 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 2 to count
+Count: 82, adding 0 to count
+Count: 0, adding 6 to count
+Count: 6, adding 4 to count
+New character + at (63, 56)
+Count: 64, adding 7 to count
+Writing 647 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 3 to count
+New character / at (62, 97)
+Count: 93, adding 9 to count
+Writing 939 to gigaTotal
+New character = at (62, 108)
+Count: 0, adding 9 to count
+Count: 9, adding 8 to count
+Count: 98, adding 0 to count
+Writing 980 to gigaTotal
+New character * at (64, 118)
+Count: 0, adding 7 to count
+Writing 7 to gigaTotal
+New character * at (62, 120)
+Count: 0, adding 1 to count
+Count: 1, adding 4 to count
+Count: 14, adding 5 to count
+Writing 145 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 1 to count
+Count: 31, adding 0 to count
+Count: 0, adding 1 to count
+Count: 1, adding 1 to count
+New character * at (65, 13)
+Count: 11, adding 3 to count
+Writing 113 to gigaTotal
+New character * at (64, 34)
+Count: 0, adding 1 to count
+Count: 1, adding 7 to count
+Writing 17 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 8 to count
+Count: 58, adding 3 to count
+New character * at (65, 67)
+Count: 0, adding 5 to count
+Count: 5, adding 8 to count
+Count: 58, adding 5 to count
+Writing 585 to gigaTotal
+New character * at (63, 82)
+Count: 0, adding 1 to count
+Count: 1, adding 6 to count
+Count: 16, adding 0 to count
+Writing 160 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 7 to count
+Count: 57, adding 1 to count
+New character * at (63, 134)
+Count: 0, adding 7 to count
+Count: 7, adding 5 to count
+Writing 75 to gigaTotal
+Count: 0, adding 9 to count
+New character * at (64, 4)
+Count: 9, adding 3 to count
+Count: 93, adding 7 to count
+Writing 937 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 6 to count
+New character * at (66, 9)
+Count: 16, adding 3 to count
+Writing 163 to gigaTotal
+New character * at (65, 13)
+Count: 0, adding 8 to count
+Count: 8, adding 5 to count
+Count: 85, adding 7 to count
+Writing 857 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 2 to count
+Count: 32, adding 2 to count
+New character @ at (66, 39)
+Count: 0, adding 2 to count
+Count: 2, adding 3 to count
+Count: 23, adding 3 to count
+Writing 233 to gigaTotal
+New character * at (64, 42)
+Count: 0, adding 4 to count
+Count: 4, adding 3 to count
+Count: 43, adding 6 to count
+Writing 436 to gigaTotal
+New character @ at (66, 47)
+Count: 0, adding 9 to count
+Count: 9, adding 7 to count
+Count: 97, adding 3 to count
+Writing 973 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 7 to count
+Count: 67, adding 8 to count
+New character * at (64, 118)
+Count: 0, adding 3 to count
+Count: 3, adding 0 to count
+Count: 30, adding 4 to count
+Writing 304 to gigaTotal
+New character # at (65, 125)
+Count: 0, adding 1 to count
+Count: 1, adding 4 to count
+Count: 14, adding 0 to count
+Writing 140 to gigaTotal
+New character * at (67, 54)
+Count: 0, adding 4 to count
+Count: 4, adding 1 to count
+Count: 41, adding 2 to count
+Writing 412 to gigaTotal
+New character % at (67, 58)
+Count: 0, adding 5 to count
+Count: 5, adding 2 to count
+Count: 52, adding 1 to count
+Writing 521 to gigaTotal
+New character * at (65, 67)
+Count: 0, adding 9 to count
+Count: 9, adding 1 to count
+Count: 91, adding 7 to count
+Writing 917 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 2 to count
+New character * at (66, 9)
+Count: 0, adding 2 to count
+Count: 2, adding 3 to count
+Count: 23, adding 3 to count
+Writing 233 to gigaTotal
+New character @ at (66, 22)
+Count: 0, adding 5 to count
+Writing 5 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 4 to count
+New character * at (68, 32)
+Count: 64, adding 9 to count
+Writing 649 to gigaTotal
+New character * at (68, 32)
+Count: 0, adding 2 to count
+Count: 2, adding 3 to count
+Count: 23, adding 0 to count
+Writing 230 to gigaTotal
+New character + at (66, 77)
+Count: 0, adding 5 to count
+Count: 5, adding 1 to count
+Count: 51, adding 3 to count
+Writing 513 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 0 to count
+New character * at (68, 87)
+Count: 30, adding 4 to count
+Writing 304 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 4 to count
+New character % at (68, 99)
+Count: 74, adding 5 to count
+Writing 745 to gigaTotal
+New character * at (68, 102)
+Count: 0, adding 8 to count
+Count: 8, adding 5 to count
+Writing 85 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 1 to count
+New character * at (68, 113)
+Count: 0, adding 7 to count
+Count: 7, adding 9 to count
+Count: 79, adding 9 to count
+Writing 799 to gigaTotal
+New character @ at (66, 123)
+Count: 0, adding 9 to count
+Count: 9, adding 5 to count
+Count: 95, adding 8 to count
+Writing 958 to gigaTotal
+New character * at (69, 5)
+Count: 0, adding 9 to count
+Count: 9, adding 8 to count
+Count: 98, adding 3 to count
+Writing 983 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 4 to count
+New character * at (67, 54)
+Count: 34, adding 0 to count
+Writing 340 to gigaTotal
+New character * at (69, 69)
+Count: 0, adding 7 to count
+Count: 7, adding 4 to count
+Count: 74, adding 5 to count
+Writing 745 to gigaTotal
+New character * at (68, 87)
+Count: 0, adding 5 to count
+Count: 5, adding 6 to count
+Count: 56, adding 5 to count
+Writing 565 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 3 to count
+New character # at (69, 122)
+Count: 83, adding 5 to count
+Writing 835 to gigaTotal
+New character / at (68, 133)
+Count: 0, adding 5 to count
+Count: 5, adding 0 to count
+Count: 50, adding 3 to count
+Writing 503 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 5 to count
+New character @ at (68, 16)
+Count: 55, adding 8 to count
+Writing 558 to gigaTotal
+New character $ at (70, 19)
+Count: 0, adding 7 to count
+Count: 7, adding 1 to count
+Writing 71 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 1 to count
+New character # at (68, 38)
+Count: 51, adding 8 to count
+Writing 518 to gigaTotal
+New character % at (68, 45)
+Count: 0, adding 5 to count
+Count: 5, adding 4 to count
+Count: 54, adding 6 to count
+Writing 546 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 4 to count
+Count: 14, adding 8 to count
+Count: 0, adding 4 to count
+New character = at (68, 64)
+Count: 4, adding 3 to count
+Count: 43, adding 9 to count
+Writing 439 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 6 to count
+New character + at (70, 80)
+Count: 56, adding 7 to count
+Writing 567 to gigaTotal
+New character * at (68, 102)
+Count: 0, adding 8 to count
+Count: 8, adding 7 to count
+Count: 87, adding 0 to count
+Writing 870 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 4 to count
+New character $ at (69, 110)
+Count: 84, adding 6 to count
+Writing 846 to gigaTotal
+New character * at (68, 113)
+Count: 0, adding 5 to count
+Count: 5, adding 1 to count
+Count: 51, adding 9 to count
+Writing 519 to gigaTotal
+New character / at (69, 127)
+Count: 0, adding 1 to count
+Count: 1, adding 7 to count
+Writing 17 to gigaTotal
+New character * at (69, 5)
+Count: 0, adding 9 to count
+Count: 9, adding 4 to count
+Count: 94, adding 5 to count
+Writing 945 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 8 to count
+Count: 38, adding 1 to count
+Count: 0, adding 6 to count
+Count: 6, adding 7 to count
+New character @ at (70, 31)
+Count: 67, adding 1 to count
+Writing 671 to gigaTotal
+New character @ at (71, 52)
+Count: 0, adding 3 to count
+Count: 3, adding 9 to count
+Count: 39, adding 0 to count
+Writing 390 to gigaTotal
+Count: 0, adding 8 to count
+New character * at (69, 69)
+Count: 8, adding 7 to count
+Count: 87, adding 0 to count
+Writing 870 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 9 to count
+Count: 19, adding 8 to count
+Count: 0, adding 3 to count
+Count: 3, adding 4 to count
+New character - at (70, 120)
+Count: 34, adding 7 to count
+Writing 347 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 6 to count
+Count: 16, adding 4 to count
+Count: 0, adding 3 to count
+Count: 3, adding 1 to count
+Count: 31, adding 8 to count
+New character % at (70, 83)
+Count: 0, adding 5 to count
+Count: 5, adding 5 to count
+Count: 55, adding 5 to count
+Writing 555 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 3 to count
+New character * at (70, 93)
+Count: 23, adding 4 to count
+Writing 234 to gigaTotal
+New character * at (70, 93)
+Count: 0, adding 9 to count
+Writing 9 to gigaTotal
+New character * at (72, 129)
+Count: 0, adding 1 to count
+Count: 1, adding 3 to count
+Count: 13, adding 4 to count
+Writing 134 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 8 to count
+New character $ at (72, 17)
+Count: 48, adding 9 to count
+Writing 489 to gigaTotal
+New character = at (72, 22)
+Count: 0, adding 6 to count
+Count: 6, adding 0 to count
+Count: 60, adding 8 to count
+Writing 608 to gigaTotal
+New character - at (71, 58)
+Count: 0, adding 4 to count
+Count: 4, adding 0 to count
+Writing 40 to gigaTotal
+New character @ at (71, 111)
+Count: 0, adding 2 to count
+Count: 2, adding 9 to count
+Count: 29, adding 1 to count
+Writing 291 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 7 to count
+New character * at (73, 119)
+Count: 27, adding 4 to count
+Writing 274 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 8 to count
+Count: 48, adding 9 to count
+Count: 0, adding 6 to count
+Count: 6, adding 9 to count
+New character * at (72, 129)
+Count: 69, adding 0 to count
+Writing 690 to gigaTotal
+New character = at (73, 5)
+Count: 0, adding 4 to count
+Count: 4, adding 8 to count
+Count: 48, adding 5 to count
+Writing 485 to gigaTotal
+New character * at (74, 36)
+Count: 0, adding 6 to count
+Count: 6, adding 3 to count
+Count: 63, adding 3 to count
+Writing 633 to gigaTotal
+Count: 0, adding 4 to count
+New character * at (74, 42)
+Count: 4, adding 6 to count
+Count: 46, adding 2 to count
+Writing 462 to gigaTotal
+New character & at (72, 55)
+Count: 0, adding 4 to count
+Count: 4, adding 9 to count
+Count: 49, adding 0 to count
+Writing 490 to gigaTotal
+New character * at (72, 62)
+Count: 0, adding 3 to count
+Count: 3, adding 7 to count
+Count: 37, adding 0 to count
+Writing 370 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 4 to count
+New character * at (74, 91)
+Count: 74, adding 0 to count
+Writing 740 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 1 to count
+New character * at (73, 104)
+Count: 41, adding 6 to count
+Writing 416 to gigaTotal
+New character + at (73, 47)
+Count: 0, adding 1 to count
+Count: 1, adding 2 to count
+Count: 12, adding 5 to count
+Writing 125 to gigaTotal
+New character # at (74, 58)
+Count: 0, adding 6 to count
+Count: 6, adding 5 to count
+Count: 65, adding 6 to count
+Writing 656 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 7 to count
+New character * at (75, 70)
+Count: 67, adding 9 to count
+Writing 679 to gigaTotal
+Count: 0, adding 2 to count
+New character - at (75, 77)
+Count: 2, adding 2 to count
+Count: 22, adding 7 to count
+Writing 227 to gigaTotal
+New character - at (73, 81)
+Count: 0, adding 4 to count
+Count: 4, adding 5 to count
+Count: 45, adding 5 to count
+Writing 455 to gigaTotal
+Count: 0, adding 4 to count
+New character * at (73, 119)
+Count: 4, adding 1 to count
+Count: 41, adding 4 to count
+Writing 414 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 5 to count
+Count: 55, adding 2 to count
+Count: 0, adding 2 to count
+New character * at (76, 19)
+Count: 2, adding 2 to count
+Count: 22, adding 7 to count
+Writing 227 to gigaTotal
+Count: 0, adding 7 to count
+New character * at (74, 36)
+Count: 7, adding 3 to count
+Count: 73, adding 3 to count
+Writing 733 to gigaTotal
+New character * at (74, 42)
+Count: 0, adding 7 to count
+Count: 7, adding 8 to count
+Count: 78, adding 7 to count
+Writing 787 to gigaTotal
+New character / at (74, 52)
+Count: 0, adding 5 to count
+Count: 5, adding 3 to count
+Count: 53, adding 2 to count
+Writing 532 to gigaTotal
+New character * at (75, 70)
+Count: 0, adding 8 to count
+Count: 8, adding 7 to count
+Count: 87, adding 9 to count
+Writing 879 to gigaTotal
+New character - at (74, 86)
+Count: 0, adding 6 to count
+Count: 6, adding 8 to count
+Count: 68, adding 1 to count
+Writing 681 to gigaTotal
+New character * at (74, 91)
+Count: 0, adding 1 to count
+Count: 1, adding 4 to count
+Count: 14, adding 8 to count
+Writing 148 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 8 to count
+New character * at (74, 99)
+Count: 18, adding 8 to count
+Writing 188 to gigaTotal
+New character * at (74, 99)
+Count: 0, adding 4 to count
+Count: 4, adding 2 to count
+Count: 42, adding 6 to count
+Writing 426 to gigaTotal
+Count: 0, adding 5 to count
+New character * at (76, 114)
+Count: 5, adding 4 to count
+Count: 54, adding 7 to count
+Writing 547 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 4 to count
+Count: 64, adding 5 to count
+Count: 0, adding 2 to count
+New character * at (77, 9)
+Count: 2, adding 1 to count
+Writing 21 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 5 to count
+Count: 0, adding 7 to count
+Count: 7, adding 9 to count
+New character * at (77, 28)
+Count: 79, adding 7 to count
+Writing 797 to gigaTotal
+New character $ at (75, 38)
+Count: 0, adding 7 to count
+Count: 7, adding 3 to count
+Writing 73 to gigaTotal
+New character * at (77, 59)
+Count: 0, adding 4 to count
+Count: 4, adding 9 to count
+Count: 49, adding 1 to count
+Writing 491 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 2 to count
+New character - at (77, 79)
+Count: 0, adding 2 to count
+Count: 2, adding 7 to count
+Writing 27 to gigaTotal
+New character / at (75, 104)
+Count: 0, adding 7 to count
+Count: 7, adding 2 to count
+Count: 72, adding 7 to count
+Writing 727 to gigaTotal
+New character = at (75, 124)
+Count: 0, adding 9 to count
+Count: 9, adding 1 to count
+Count: 91, adding 2 to count
+Writing 912 to gigaTotal
+New character + at (76, 4)
+Count: 0, adding 2 to count
+Count: 2, adding 5 to count
+Count: 25, adding 8 to count
+Writing 258 to gigaTotal
+New character * at (77, 9)
+Count: 0, adding 5 to count
+Count: 5, adding 7 to count
+Count: 57, adding 2 to count
+Writing 572 to gigaTotal
+New character * at (76, 19)
+Count: 0, adding 9 to count
+Count: 9, adding 5 to count
+Count: 95, adding 5 to count
+Writing 955 to gigaTotal
+New character * at (78, 35)
+Count: 0, adding 5 to count
+Count: 5, adding 8 to count
+Count: 58, adding 5 to count
+Writing 585 to gigaTotal
+New character - at (78, 55)
+Count: 0, adding 8 to count
+Count: 8, adding 0 to count
+Count: 80, adding 0 to count
+Writing 800 to gigaTotal
+Count: 0, adding 3 to count
+New character @ at (76, 110)
+Count: 3, adding 5 to count
+Count: 35, adding 7 to count
+Writing 357 to gigaTotal
+New character * at (77, 28)
+Count: 0, adding 4 to count
+Count: 4, adding 1 to count
+Count: 41, adding 5 to count
+Writing 415 to gigaTotal
+New character & at (77, 31)
+Count: 0, adding 3 to count
+Count: 3, adding 8 to count
+Count: 38, adding 9 to count
+Writing 389 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 7 to count
+New character * at (77, 47)
+Count: 97, adding 3 to count
+Writing 973 to gigaTotal
+New character * at (77, 47)
+Count: 0, adding 7 to count
+Count: 7, adding 3 to count
+Count: 73, adding 8 to count
+Writing 738 to gigaTotal
+New character * at (77, 59)
+Count: 0, adding 7 to count
+Count: 7, adding 5 to count
+Count: 75, adding 9 to count
+Writing 759 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 6 to count
+New character * at (79, 66)
+Count: 96, adding 8 to count
+Writing 968 to gigaTotal
+New character % at (79, 69)
+Count: 0, adding 4 to count
+Count: 4, adding 7 to count
+Count: 47, adding 7 to count
+Writing 477 to gigaTotal
+New character @ at (77, 75)
+Count: 0, adding 1 to count
+Count: 1, adding 9 to count
+Count: 19, adding 2 to count
+Writing 192 to gigaTotal
+New character * at (79, 84)
+Count: 0, adding 5 to count
+Count: 5, adding 5 to count
+Count: 55, adding 3 to count
+Writing 553 to gigaTotal
+New character / at (79, 100)
+Count: 0, adding 3 to count
+Count: 3, adding 9 to count
+Count: 39, adding 8 to count
+Writing 398 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 7 to count
+New character * at (79, 107)
+Count: 17, adding 0 to count
+Writing 170 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 0 to count
+Count: 90, adding 0 to count
+Count: 0, adding 9 to count
+Count: 9, adding 8 to count
+Count: 98, adding 6 to count
+Count: 0, adding 8 to count
+Count: 8, adding 3 to count
+New character $ at (78, 131)
+Count: 83, adding 4 to count
+Writing 834 to gigaTotal
+Count: 0, adding 7 to count
+New character + at (77, 136)
+Count: 7, adding 5 to count
+Count: 75, adding 8 to count
+Writing 758 to gigaTotal
+New character * at (80, 8)
+Count: 0, adding 1 to count
+Count: 1, adding 0 to count
+Writing 10 to gigaTotal
+Count: 0, adding 8 to count
+New character * at (80, 19)
+Count: 8, adding 1 to count
+Count: 81, adding 6 to count
+Writing 816 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 7 to count
+Count: 67, adding 6 to count
+New character * at (78, 35)
+Count: 0, adding 3 to count
+Count: 3, adding 5 to count
+Count: 35, adding 6 to count
+Writing 356 to gigaTotal
+New character % at (78, 52)
+Count: 0, adding 7 to count
+Count: 7, adding 8 to count
+Writing 78 to gigaTotal
+New character # at (78, 91)
+Count: 0, adding 3 to count
+Count: 3, adding 7 to count
+Count: 37, adding 2 to count
+Writing 372 to gigaTotal
+Count: 0, adding 3 to count
+New character / at (78, 120)
+Count: 3, adding 2 to count
+Count: 32, adding 2 to count
+Writing 322 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 2 to count
+New character * at (80, 8)
+Count: 12, adding 2 to count
+Writing 122 to gigaTotal
+New character * at (81, 40)
+Count: 0, adding 5 to count
+Count: 5, adding 9 to count
+Count: 59, adding 0 to count
+Writing 590 to gigaTotal
+New character * at (81, 55)
+Count: 0, adding 8 to count
+Count: 8, adding 7 to count
+Count: 87, adding 0 to count
+Writing 870 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 2 to count
+Count: 92, adding 0 to count
+New character * at (79, 66)
+Count: 0, adding 9 to count
+Count: 9, adding 1 to count
+Count: 91, adding 1 to count
+Writing 911 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 4 to count
+Count: 24, adding 6 to count
+New character * at (79, 84)
+Count: 0, adding 4 to count
+Count: 4, adding 5 to count
+Count: 45, adding 2 to count
+Writing 452 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 4 to count
+New character * at (79, 107)
+Count: 74, adding 0 to count
+Writing 740 to gigaTotal
+New character * at (81, 122)
+Count: 0, adding 1 to count
+Count: 1, adding 9 to count
+Count: 19, adding 9 to count
+Writing 199 to gigaTotal
+Count: 0, adding 4 to count
+New character * at (82, 13)
+Count: 4, adding 4 to count
+Count: 44, adding 4 to count
+Writing 444 to gigaTotal
+New character * at (80, 19)
+Count: 0, adding 7 to count
+Count: 7, adding 3 to count
+Count: 73, adding 8 to count
+Writing 738 to gigaTotal
+New character % at (80, 26)
+Count: 0, adding 5 to count
+Count: 5, adding 0 to count
+Count: 50, adding 5 to count
+Writing 505 to gigaTotal
+Count: 0, adding 4 to count
+New character % at (82, 36)
+Count: 4, adding 9 to count
+Count: 49, adding 8 to count
+Writing 498 to gigaTotal
+New character = at (82, 90)
+Count: 0, adding 9 to count
+Count: 9, adding 4 to count
+Count: 94, adding 6 to count
+Writing 946 to gigaTotal
+Count: 0, adding 6 to count
+New character * at (83, 7)
+Count: 6, adding 7 to count
+Count: 67, adding 5 to count
+Writing 675 to gigaTotal
+Count: 0, adding 1 to count
+New character @ at (81, 32)
+Count: 1, adding 8 to count
+Count: 18, adding 0 to count
+Writing 180 to gigaTotal
+Count: 0, adding 9 to count
+New character * at (81, 40)
+Count: 9, adding 5 to count
+Count: 95, adding 7 to count
+Writing 957 to gigaTotal
+New character = at (81, 44)
+Count: 0, adding 3 to count
+Count: 3, adding 3 to count
+Count: 33, adding 5 to count
+Writing 335 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 9 to count
+Count: 29, adding 5 to count
+New character * at (81, 55)
+Count: 0, adding 2 to count
+Count: 2, adding 2 to count
+Count: 22, adding 2 to count
+Writing 222 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 8 to count
+New character * at (83, 76)
+Count: 28, adding 1 to count
+Writing 281 to gigaTotal
+New character * at (83, 79)
+Count: 0, adding 6 to count
+Count: 6, adding 2 to count
+Count: 62, adding 5 to count
+Writing 625 to gigaTotal
+New character * at (83, 95)
+Count: 0, adding 6 to count
+Count: 6, adding 9 to count
+Count: 69, adding 5 to count
+Writing 695 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 7 to count
+New character + at (81, 113)
+Count: 17, adding 3 to count
+Writing 173 to gigaTotal
+New character * at (81, 115)
+Count: 0, adding 6 to count
+Count: 6, adding 5 to count
+Count: 65, adding 2 to count
+Writing 652 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 4 to count
+New character + at (83, 127)
+Count: 14, adding 1 to count
+Writing 141 to gigaTotal
+New character * at (82, 13)
+Count: 0, adding 8 to count
+Count: 8, adding 6 to count
+Count: 86, adding 0 to count
+Writing 860 to gigaTotal
+New character * at (84, 23)
+Count: 0, adding 8 to count
+Count: 8, adding 4 to count
+Count: 84, adding 2 to count
+Writing 842 to gigaTotal
+Count: 0, adding 4 to count
+New character & at (82, 53)
+Count: 4, adding 5 to count
+Count: 45, adding 3 to count
+Writing 453 to gigaTotal
+New character - at (82, 62)
+Count: 0, adding 8 to count
+Count: 8, adding 0 to count
+Count: 80, adding 9 to count
+Writing 809 to gigaTotal
+Count: 0, adding 1 to count
+New character $ at (84, 71)
+Count: 1, adding 6 to count
+Count: 16, adding 7 to count
+Writing 167 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 0 to count
+New character @ at (82, 85)
+Count: 30, adding 8 to count
+Writing 308 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 0 to count
+New character * at (84, 105)
+Count: 90, adding 2 to count
+Writing 902 to gigaTotal
+New character * at (84, 105)
+Count: 0, adding 1 to count
+Count: 1, adding 0 to count
+Count: 10, adding 1 to count
+Writing 101 to gigaTotal
+New character - at (82, 130)
+Count: 0, adding 8 to count
+Count: 8, adding 9 to count
+Count: 89, adding 4 to count
+Writing 894 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 3 to count
+Count: 13, adding 0 to count
+Count: 0, adding 8 to count
+New character * at (83, 7)
+Count: 8, adding 3 to count
+Count: 83, adding 4 to count
+Writing 834 to gigaTotal
+New character = at (84, 28)
+Count: 0, adding 1 to count
+Count: 1, adding 3 to count
+Count: 13, adding 8 to count
+Writing 138 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 2 to count
+Count: 22, adding 4 to count
+New character + at (85, 64)
+Count: 0, adding 3 to count
+Count: 3, adding 0 to count
+Count: 30, adding 1 to count
+Writing 301 to gigaTotal
+Count: 0, adding 6 to count
+New character * at (83, 76)
+Count: 6, adding 6 to count
+Count: 66, adding 3 to count
+Writing 663 to gigaTotal
+New character * at (83, 79)
+Count: 0, adding 9 to count
+Writing 9 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 8 to count
+Count: 0, adding 8 to count
+New character * at (83, 95)
+Count: 8, adding 9 to count
+Count: 89, adding 9 to count
+Writing 899 to gigaTotal
+New character * at (84, 23)
+Count: 0, adding 9 to count
+Count: 9, adding 4 to count
+Count: 94, adding 8 to count
+Writing 948 to gigaTotal
+New character * at (86, 48)
+Count: 0, adding 9 to count
+Count: 9, adding 0 to count
+Count: 90, adding 8 to count
+Writing 908 to gigaTotal
+New character # at (86, 98)
+Count: 0, adding 7 to count
+Count: 7, adding 4 to count
+Writing 74 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 8 to count
+New character * at (86, 110)
+Count: 38, adding 4 to count
+Writing 384 to gigaTotal
+New character * at (86, 110)
+Count: 0, adding 4 to count
+Count: 4, adding 5 to count
+Count: 45, adding 4 to count
+Writing 454 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 9 to count
+New character * at (85, 127)
+Count: 0, adding 7 to count
+Count: 7, adding 2 to count
+Count: 72, adding 4 to count
+Writing 724 to gigaTotal
+New character * at (87, 16)
+Count: 0, adding 4 to count
+Writing 4 to gigaTotal
+Count: 0, adding 8 to count
+New character * at (87, 30)
+Count: 8, adding 4 to count
+Writing 84 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 9 to count
+Count: 99, adding 0 to count
+Count: 0, adding 9 to count
+Count: 9, adding 4 to count
+New character * at (87, 45)
+Count: 94, adding 9 to count
+Writing 949 to gigaTotal
+New character @ at (87, 67)
+Count: 0, adding 4 to count
+Count: 4, adding 8 to count
+Count: 48, adding 0 to count
+Writing 480 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 6 to count
+New character * at (87, 77)
+Count: 96, adding 1 to count
+Writing 961 to gigaTotal
+New character # at (85, 80)
+Count: 0, adding 2 to count
+Count: 2, adding 3 to count
+Count: 23, adding 0 to count
+Writing 230 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 8 to count
+New character * at (87, 102)
+Count: 0, adding 3 to count
+Count: 3, adding 6 to count
+Count: 36, adding 7 to count
+Writing 367 to gigaTotal
+New character * at (88, 6)
+Count: 0, adding 4 to count
+Count: 4, adding 9 to count
+Count: 49, adding 6 to count
+Writing 496 to gigaTotal
+New character * at (87, 16)
+Count: 0, adding 2 to count
+Count: 2, adding 8 to count
+Count: 28, adding 9 to count
+Writing 289 to gigaTotal
+New character * at (87, 30)
+Count: 0, adding 1 to count
+Count: 1, adding 1 to count
+Writing 11 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 3 to count
+New character * at (87, 59)
+Count: 13, adding 9 to count
+Writing 139 to gigaTotal
+New character * at (87, 59)
+Count: 0, adding 1 to count
+Count: 1, adding 2 to count
+Count: 12, adding 9 to count
+Writing 129 to gigaTotal
+Count: 0, adding 2 to count
+New character * at (88, 108)
+Count: 2, adding 5 to count
+Count: 25, adding 5 to count
+Writing 255 to gigaTotal
+New character * at (88, 126)
+Count: 0, adding 5 to count
+Count: 5, adding 3 to count
+Count: 53, adding 2 to count
+Writing 532 to gigaTotal
+New character * at (88, 133)
+Count: 0, adding 6 to count
+Count: 6, adding 0 to count
+Count: 60, adding 7 to count
+Writing 607 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 4 to count
+Count: 44, adding 3 to count
+New character * at (89, 22)
+Count: 0, adding 8 to count
+Count: 8, adding 8 to count
+Count: 88, adding 8 to count
+Writing 888 to gigaTotal
+New character * at (87, 45)
+Count: 0, adding 8 to count
+Count: 8, adding 1 to count
+Count: 81, adding 2 to count
+Writing 812 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 7 to count
+Count: 87, adding 6 to count
+Count: 0, adding 3 to count
+Count: 3, adding 6 to count
+New character * at (87, 77)
+Count: 36, adding 4 to count
+Writing 364 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 6 to count
+Count: 96, adding 5 to count
+New character * at (89, 91)
+Count: 0, adding 1 to count
+Count: 1, adding 0 to count
+Count: 10, adding 5 to count
+Writing 105 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 4 to count
+Count: 44, adding 6 to count
+New character * at (87, 102)
+Count: 0, adding 6 to count
+Count: 6, adding 1 to count
+Count: 61, adding 2 to count
+Writing 612 to gigaTotal
+Count: 0, adding 1 to count
+New character * at (88, 113)
+Count: 1, adding 2 to count
+Writing 12 to gigaTotal
+New character * at (90, 3)
+Count: 0, adding 3 to count
+Count: 3, adding 7 to count
+Count: 37, adding 4 to count
+Writing 374 to gigaTotal
+Count: 0, adding 8 to count
+New character * at (90, 10)
+Count: 8, adding 3 to count
+Count: 83, adding 3 to count
+Writing 833 to gigaTotal
+Count: 0, adding 1 to count
+New character * at (89, 22)
+Count: 1, adding 9 to count
+Writing 19 to gigaTotal
+New character * at (90, 29)
+Count: 0, adding 9 to count
+Count: 9, adding 0 to count
+Count: 90, adding 4 to count
+Writing 904 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 3 to count
+Count: 43, adding 2 to count
+Count: 0, adding 1 to count
+Count: 1, adding 5 to count
+New character + at (90, 55)
+Count: 15, adding 3 to count
+Writing 153 to gigaTotal
+Count: 0, adding 7 to count
+New character / at (89, 62)
+Count: 7, adding 8 to count
+Writing 78 to gigaTotal
+New character * at (90, 78)
+Count: 0, adding 2 to count
+Count: 2, adding 6 to count
+Count: 26, adding 7 to count
+Writing 267 to gigaTotal
+Count: 0, adding 8 to count
+New character * at (88, 108)
+Count: 8, adding 0 to count
+Count: 80, adding 0 to count
+Writing 800 to gigaTotal
+New character @ at (90, 116)
+Count: 0, adding 2 to count
+Count: 2, adding 8 to count
+Count: 28, adding 5 to count
+Writing 285 to gigaTotal
+Count: 0, adding 8 to count
+New character * at (88, 126)
+Count: 8, adding 9 to count
+Count: 89, adding 0 to count
+Writing 890 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 1 to count
+New character * at (88, 133)
+Count: 61, adding 8 to count
+Writing 618 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 7 to count
+New character * at (91, 17)
+Count: 47, adding 9 to count
+Writing 479 to gigaTotal
+Count: 0, adding 6 to count
+New character / at (91, 49)
+Count: 6, adding 4 to count
+Count: 64, adding 8 to count
+Writing 648 to gigaTotal
+New character $ at (91, 66)
+Count: 0, adding 7 to count
+Count: 7, adding 1 to count
+Writing 71 to gigaTotal
+Count: 0, adding 5 to count
+New character = at (91, 89)
+Count: 5, adding 3 to count
+Writing 53 to gigaTotal
+New character * at (89, 91)
+Count: 0, adding 2 to count
+Count: 2, adding 1 to count
+Count: 21, adding 6 to count
+Writing 216 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 8 to count
+New character % at (91, 98)
+Count: 68, adding 6 to count
+Writing 686 to gigaTotal
+New character / at (90, 111)
+Count: 0, adding 3 to count
+Writing 3 to gigaTotal
+New character = at (91, 119)
+Count: 0, adding 4 to count
+Count: 4, adding 9 to count
+Count: 49, adding 8 to count
+Writing 498 to gigaTotal
+New character * at (91, 136)
+Count: 0, adding 3 to count
+Count: 3, adding 4 to count
+Count: 34, adding 6 to count
+Writing 346 to gigaTotal
+Count: 0, adding 7 to count
+New character * at (90, 3)
+Count: 7, adding 3 to count
+Count: 73, adding 9 to count
+Writing 739 to gigaTotal
+New character * at (90, 10)
+Count: 0, adding 2 to count
+Count: 2, adding 8 to count
+Writing 28 to gigaTotal
+New character * at (91, 17)
+Count: 0, adding 7 to count
+Count: 7, adding 6 to count
+Count: 76, adding 0 to count
+Writing 760 to gigaTotal
+Count: 0, adding 1 to count
+New character * at (90, 27)
+Count: 1, adding 1 to count
+Count: 11, adding 2 to count
+Writing 112 to gigaTotal
+New character * at (90, 29)
+Count: 0, adding 7 to count
+Count: 7, adding 2 to count
+Count: 72, adding 5 to count
+Writing 725 to gigaTotal
+Count: 0, adding 1 to count
+New character = at (92, 36)
+Count: 1, adding 4 to count
+Count: 14, adding 5 to count
+Writing 145 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 3 to count
+New character & at (92, 46)
+Count: 13, adding 3 to count
+Writing 133 to gigaTotal
+New character # at (91, 51)
+Count: 0, adding 7 to count
+Count: 7, adding 1 to count
+Writing 71 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 3 to count
+New character / at (92, 62)
+Count: 73, adding 7 to count
+Writing 737 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 0 to count
+New character * at (90, 78)
+Count: 40, adding 7 to count
+Writing 407 to gigaTotal
+New character & at (92, 79)
+Count: 0, adding 2 to count
+Count: 2, adding 2 to count
+Count: 22, adding 8 to count
+Writing 228 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 0 to count
+New character * at (91, 136)
+Count: 40, adding 7 to count
+Writing 407 to gigaTotal
+Count: 0, adding 6 to count
+New character * at (93, 7)
+Count: 6, adding 1 to count
+Count: 61, adding 9 to count
+Writing 619 to gigaTotal
+New character * at (91, 69)
+Count: 0, adding 9 to count
+Count: 9, adding 3 to count
+Count: 93, adding 2 to count
+Writing 932 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 9 to count
+New character = at (93, 112)
+Count: 29, adding 6 to count
+Writing 296 to gigaTotal
+New character # at (93, 122)
+Count: 0, adding 3 to count
+Count: 3, adding 4 to count
+Count: 34, adding 8 to count
+Writing 348 to gigaTotal
+New character + at (92, 125)
+Count: 0, adding 1 to count
+Count: 1, adding 6 to count
+Count: 16, adding 6 to count
+Writing 166 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 2 to count
+New character - at (93, 26)
+Count: 0, adding 9 to count
+Count: 9, adding 1 to count
+Count: 91, adding 7 to count
+Writing 917 to gigaTotal
+New character - at (93, 84)
+Count: 0, adding 3 to count
+Count: 3, adding 1 to count
+Count: 31, adding 7 to count
+Writing 317 to gigaTotal
+New character & at (94, 136)
+Count: 0, adding 1 to count
+Count: 1, adding 1 to count
+Count: 11, adding 1 to count
+Writing 111 to gigaTotal
+New character * at (93, 7)
+Count: 0, adding 2 to count
+Count: 2, adding 6 to count
+Count: 26, adding 3 to count
+Writing 263 to gigaTotal
+New character * at (95, 49)
+Count: 0, adding 8 to count
+Count: 8, adding 2 to count
+Count: 82, adding 9 to count
+Writing 829 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 1 to count
+New character - at (94, 66)
+Count: 41, adding 8 to count
+Writing 418 to gigaTotal
+New character @ at (95, 93)
+Count: 0, adding 5 to count
+Count: 5, adding 9 to count
+Count: 59, adding 9 to count
+Writing 599 to gigaTotal
+New character * at (95, 97)
+Count: 0, adding 3 to count
+Count: 3, adding 0 to count
+Count: 30, adding 4 to count
+Writing 304 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 4 to count
+New character $ at (94, 128)
+Count: 84, adding 9 to count
+Writing 849 to gigaTotal
+New character = at (93, 131)
+Count: 0, adding 4 to count
+Count: 4, adding 4 to count
+Count: 44, adding 2 to count
+Writing 442 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 9 to count
+New character % at (95, 5)
+Count: 79, adding 2 to count
+Writing 792 to gigaTotal
+New character * at (95, 17)
+Count: 0, adding 8 to count
+Count: 8, adding 8 to count
+Count: 88, adding 0 to count
+Writing 880 to gigaTotal
+Count: 0, adding 4 to count
+New character * at (96, 27)
+Count: 4, adding 9 to count
+Count: 49, adding 9 to count
+Writing 499 to gigaTotal
+Count: 0, adding 7 to count
+New character $ at (94, 41)
+Count: 7, adding 1 to count
+Count: 71, adding 9 to count
+Writing 719 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 1 to count
+New character * at (95, 49)
+Count: 41, adding 5 to count
+Writing 415 to gigaTotal
+Count: 0, adding 8 to count
+New character = at (94, 59)
+Count: 8, adding 5 to count
+Count: 85, adding 3 to count
+Writing 853 to gigaTotal
+Count: 0, adding 9 to count
+New character $ at (94, 78)
+Count: 9, adding 2 to count
+Count: 92, adding 8 to count
+Writing 928 to gigaTotal
+New character * at (96, 81)
+Count: 0, adding 4 to count
+Count: 4, adding 7 to count
+Writing 47 to gigaTotal
+New character * at (95, 87)
+Count: 0, adding 5 to count
+Count: 5, adding 9 to count
+Writing 59 to gigaTotal
+New character $ at (96, 101)
+Count: 0, adding 6 to count
+Count: 6, adding 7 to count
+Count: 67, adding 9 to count
+Writing 679 to gigaTotal
+Count: 0, adding 7 to count
+New character @ at (94, 114)
+Count: 7, adding 4 to count
+Count: 74, adding 4 to count
+Writing 744 to gigaTotal
+Count: 0, adding 5 to count
+New character / at (97, 11)
+Count: 5, adding 9 to count
+Count: 59, adding 0 to count
+Writing 590 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 8 to count
+New character * at (95, 17)
+Count: 58, adding 9 to count
+Writing 589 to gigaTotal
+New character * at (97, 31)
+Count: 0, adding 9 to count
+Count: 9, adding 0 to count
+Writing 90 to gigaTotal
+New character # at (96, 68)
+Count: 0, adding 2 to count
+Count: 2, adding 8 to count
+Count: 28, adding 2 to count
+Writing 282 to gigaTotal
+New character * at (95, 97)
+Count: 0, adding 5 to count
+Count: 5, adding 6 to count
+Count: 56, adding 8 to count
+Writing 568 to gigaTotal
+New character * at (97, 129)
+Count: 0, adding 7 to count
+Count: 7, adding 3 to count
+Count: 73, adding 6 to count
+Writing 736 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 8 to count
+New character * at (97, 136)
+Count: 38, adding 3 to count
+Writing 383 to gigaTotal
+New character * at (97, 136)
+Count: 0, adding 3 to count
+Count: 3, adding 2 to count
+Count: 32, adding 1 to count
+Writing 321 to gigaTotal
+Count: 0, adding 4 to count
+New character * at (98, 23)
+Count: 4, adding 8 to count
+Count: 48, adding 1 to count
+Writing 481 to gigaTotal
+New character * at (96, 27)
+Count: 0, adding 8 to count
+Count: 8, adding 7 to count
+Writing 87 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 3 to count
+New character * at (96, 52)
+Count: 83, adding 1 to count
+Writing 831 to gigaTotal
+New character * at (96, 52)
+Count: 0, adding 6 to count
+Count: 6, adding 7 to count
+Count: 67, adding 4 to count
+Writing 674 to gigaTotal
+Count: 0, adding 4 to count
+New character / at (98, 62)
+Count: 4, adding 3 to count
+Count: 43, adding 0 to count
+Writing 430 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 7 to count
+New character @ at (98, 79)
+Count: 27, adding 0 to count
+Writing 270 to gigaTotal
+New character * at (96, 81)
+Count: 0, adding 3 to count
+Count: 3, adding 9 to count
+Count: 39, adding 3 to count
+Writing 393 to gigaTotal
+New character % at (97, 104)
+Count: 0, adding 6 to count
+Count: 6, adding 5 to count
+Writing 65 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 6 to count
+New character % at (99, 7)
+Count: 86, adding 4 to count
+Writing 864 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 0 to count
+New character # at (99, 19)
+Count: 80, adding 9 to count
+Writing 809 to gigaTotal
+New character * at (97, 31)
+Count: 0, adding 9 to count
+Count: 9, adding 2 to count
+Count: 92, adding 2 to count
+Writing 922 to gigaTotal
+New character $ at (99, 36)
+Count: 0, adding 9 to count
+Count: 9, adding 7 to count
+Count: 97, adding 9 to count
+Writing 979 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 6 to count
+New character * at (99, 70)
+Count: 46, adding 1 to count
+Writing 461 to gigaTotal
+New character * at (99, 70)
+Count: 0, adding 5 to count
+Count: 5, adding 4 to count
+Count: 54, adding 5 to count
+Writing 545 to gigaTotal
+New character * at (99, 84)
+Count: 0, adding 7 to count
+Count: 7, adding 3 to count
+Count: 73, adding 8 to count
+Writing 738 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 5 to count
+Count: 35, adding 5 to count
+Count: 0, adding 6 to count
+Count: 6, adding 4 to count
+New character * at (97, 129)
+Count: 64, adding 6 to count
+Writing 646 to gigaTotal
+New character * at (98, 23)
+Count: 0, adding 5 to count
+Count: 5, adding 3 to count
+Count: 53, adding 9 to count
+Writing 539 to gigaTotal
+New character * at (99, 54)
+Count: 0, adding 1 to count
+Count: 1, adding 2 to count
+Count: 12, adding 2 to count
+Writing 122 to gigaTotal
+New character * at (100, 74)
+Count: 0, adding 9 to count
+Count: 9, adding 9 to count
+Count: 99, adding 2 to count
+Writing 992 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 9 to count
+New character * at (99, 84)
+Count: 89, adding 8 to count
+Writing 898 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 0 to count
+Count: 80, adding 1 to count
+Count: 0, adding 4 to count
+New character - at (98, 96)
+Count: 4, adding 9 to count
+Count: 49, adding 7 to count
+Writing 497 to gigaTotal
+Count: 0, adding 2 to count
+New character * at (100, 132)
+Count: 2, adding 1 to count
+Count: 21, adding 4 to count
+Writing 214 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 6 to count
+Count: 86, adding 2 to count
+New character @ at (99, 14)
+Count: 0, adding 3 to count
+Count: 3, adding 9 to count
+Count: 39, adding 3 to count
+Writing 393 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 6 to count
+Count: 96, adding 4 to count
+Count: 0, adding 9 to count
+Count: 9, adding 5 to count
+New character * at (99, 54)
+Count: 95, adding 3 to count
+Writing 953 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 0 to count
+New character @ at (100, 67)
+Count: 50, adding 3 to count
+Writing 503 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 6 to count
+New character & at (101, 102)
+Count: 76, adding 4 to count
+Writing 764 to gigaTotal
+New character # at (99, 104)
+Count: 0, adding 1 to count
+Count: 1, adding 4 to count
+Count: 14, adding 3 to count
+Writing 143 to gigaTotal
+New character & at (99, 108)
+Count: 0, adding 1 to count
+Count: 1, adding 7 to count
+Writing 17 to gigaTotal
+New character @ at (99, 112)
+Count: 0, adding 3 to count
+Count: 3, adding 8 to count
+Count: 38, adding 5 to count
+Writing 385 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 2 to count
+New character $ at (101, 129)
+Count: 52, adding 5 to count
+Writing 525 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 7 to count
+Count: 0, adding 4 to count
+New character * at (102, 12)
+Count: 4, adding 9 to count
+Writing 49 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 4 to count
+New character # at (101, 21)
+Count: 44, adding 4 to count
+Writing 444 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 0 to count
+New character * at (100, 74)
+Count: 10, adding 8 to count
+Writing 108 to gigaTotal
+New character = at (102, 78)
+Count: 0, adding 8 to count
+Count: 8, adding 0 to count
+Count: 80, adding 1 to count
+Writing 801 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 6 to count
+New character * at (102, 122)
+Count: 86, adding 6 to count
+Writing 866 to gigaTotal
+New character * at (100, 132)
+Count: 0, adding 3 to count
+Count: 3, adding 3 to count
+Count: 33, adding 4 to count
+Writing 334 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 2 to count
+Count: 62, adding 6 to count
+New character * at (102, 12)
+Count: 0, adding 1 to count
+Count: 1, adding 2 to count
+Count: 12, adding 0 to count
+Writing 120 to gigaTotal
+Count: 0, adding 7 to count
+New character * at (103, 31)
+Count: 7, adding 3 to count
+Count: 73, adding 6 to count
+Writing 736 to gigaTotal
+Count: 0, adding 9 to count
+New character * at (103, 35)
+Count: 9, adding 7 to count
+Count: 97, adding 1 to count
+Writing 971 to gigaTotal
+Count: 0, adding 5 to count
+New character & at (101, 42)
+Count: 5, adding 9 to count
+Count: 59, adding 5 to count
+Writing 595 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 1 to count
+Count: 71, adding 5 to count
+Count: 0, adding 4 to count
+Count: 4, adding 6 to count
+Count: 46, adding 2 to count
+New character * at (101, 96)
+Count: 0, adding 7 to count
+Count: 7, adding 5 to count
+Count: 75, adding 4 to count
+Writing 754 to gigaTotal
+New character * at (102, 122)
+Count: 0, adding 6 to count
+Count: 6, adding 2 to count
+Count: 62, adding 9 to count
+Writing 629 to gigaTotal
+New character / at (104, 6)
+Count: 0, adding 3 to count
+Count: 3, adding 3 to count
+Count: 33, adding 1 to count
+Writing 331 to gigaTotal
+New character * at (104, 19)
+Count: 0, adding 6 to count
+Count: 6, adding 2 to count
+Count: 62, adding 0 to count
+Writing 620 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 5 to count
+New character + at (104, 48)
+Count: 25, adding 2 to count
+Writing 252 to gigaTotal
+Count: 0, adding 9 to count
+New character = at (102, 63)
+Count: 9, adding 8 to count
+Count: 98, adding 7 to count
+Writing 987 to gigaTotal
+New character - at (102, 69)
+Count: 0, adding 8 to count
+Count: 8, adding 4 to count
+Count: 84, adding 6 to count
+Writing 846 to gigaTotal
+New character - at (104, 81)
+Count: 0, adding 1 to count
+Count: 1, adding 6 to count
+Count: 16, adding 3 to count
+Writing 163 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 4 to count
+Count: 94, adding 1 to count
+New character - at (103, 103)
+Count: 0, adding 2 to count
+Count: 2, adding 1 to count
+Count: 21, adding 9 to count
+Writing 219 to gigaTotal
+Count: 0, adding 7 to count
+New character @ at (102, 112)
+Count: 7, adding 1 to count
+Count: 71, adding 9 to count
+Writing 719 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 3 to count
+New character * at (103, 119)
+Count: 23, adding 1 to count
+Writing 231 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 6 to count
+New character * at (104, 19)
+Count: 46, adding 8 to count
+Writing 468 to gigaTotal
+New character * at (103, 31)
+Count: 0, adding 7 to count
+Count: 7, adding 3 to count
+Count: 73, adding 4 to count
+Writing 734 to gigaTotal
+New character * at (103, 35)
+Count: 0, adding 9 to count
+Count: 9, adding 3 to count
+Count: 93, adding 9 to count
+Writing 939 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 2 to count
+New character % at (105, 54)
+Count: 22, adding 0 to count
+Writing 220 to gigaTotal
+New character * at (105, 56)
+Count: 0, adding 9 to count
+Count: 9, adding 3 to count
+Count: 93, adding 4 to count
+Writing 934 to gigaTotal
+New character = at (103, 65)
+Count: 0, adding 1 to count
+Count: 1, adding 7 to count
+Count: 17, adding 0 to count
+Writing 170 to gigaTotal
+Count: 0, adding 7 to count
+New character * at (105, 78)
+Count: 7, adding 4 to count
+Count: 74, adding 5 to count
+Writing 745 to gigaTotal
+New character * at (103, 119)
+Count: 0, adding 6 to count
+Count: 6, adding 3 to count
+Count: 63, adding 5 to count
+Writing 635 to gigaTotal
+New character = at (103, 130)
+Count: 0, adding 6 to count
+Count: 6, adding 5 to count
+Count: 65, adding 0 to count
+Writing 650 to gigaTotal
+Count: 0, adding 5 to count
+New character * at (106, 3)
+Count: 5, adding 5 to count
+Count: 55, adding 0 to count
+Writing 550 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 6 to count
+New character * at (104, 99)
+Count: 26, adding 1 to count
+Writing 261 to gigaTotal
+New character * at (104, 99)
+Count: 0, adding 3 to count
+Count: 3, adding 4 to count
+Count: 34, adding 6 to count
+Writing 346 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 3 to count
+Count: 23, adding 7 to count
+New character + at (107, 5)
+Count: 0, adding 5 to count
+Count: 5, adding 2 to count
+Count: 52, adding 8 to count
+Writing 528 to gigaTotal
+New character & at (105, 11)
+Count: 0, adding 3 to count
+Count: 3, adding 0 to count
+Count: 30, adding 3 to count
+Writing 303 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 4 to count
+Count: 54, adding 6 to count
+New character * at (107, 26)
+Count: 0, adding 3 to count
+Count: 3, adding 5 to count
+Count: 35, adding 7 to count
+Writing 357 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 7 to count
+New character + at (107, 38)
+Count: 87, adding 8 to count
+Writing 878 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 7 to count
+New character * at (107, 46)
+Count: 57, adding 1 to count
+Writing 571 to gigaTotal
+New character * at (105, 56)
+Count: 0, adding 7 to count
+Count: 7, adding 5 to count
+Count: 75, adding 5 to count
+Writing 755 to gigaTotal
+New character * at (107, 63)
+Count: 0, adding 6 to count
+Count: 6, adding 1 to count
+Count: 61, adding 9 to count
+Writing 619 to gigaTotal
+New character / at (107, 68)
+Count: 0, adding 6 to count
+Count: 6, adding 6 to count
+Count: 66, adding 1 to count
+Writing 661 to gigaTotal
+Count: 0, adding 8 to count
+New character * at (105, 78)
+Count: 8, adding 0 to count
+Count: 80, adding 3 to count
+Writing 803 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 5 to count
+Count: 35, adding 8 to count
+Count: 0, adding 3 to count
+New character & at (105, 86)
+Count: 3, adding 3 to count
+Count: 33, adding 5 to count
+Writing 335 to gigaTotal
+New character * at (107, 90)
+Count: 0, adding 6 to count
+Count: 6, adding 7 to count
+Writing 67 to gigaTotal
+New character * at (107, 117)
+Count: 0, adding 4 to count
+Count: 4, adding 9 to count
+Count: 49, adding 6 to count
+Writing 496 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 5 to count
+New character # at (105, 125)
+Count: 25, adding 9 to count
+Writing 259 to gigaTotal
+New character * at (107, 135)
+Count: 0, adding 2 to count
+Count: 2, adding 5 to count
+Writing 25 to gigaTotal
+Count: 0, adding 9 to count
+New character * at (106, 3)
+Count: 9, adding 3 to count
+Count: 93, adding 8 to count
+Writing 938 to gigaTotal
+New character * at (107, 46)
+Count: 0, adding 6 to count
+Count: 6, adding 4 to count
+Count: 64, adding 9 to count
+Writing 649 to gigaTotal
+Count: 0, adding 9 to count
+New character + at (108, 130)
+Count: 9, adding 6 to count
+Count: 96, adding 1 to count
+Writing 961 to gigaTotal
+New character * at (109, 12)
+Count: 0, adding 9 to count
+Count: 9, adding 7 to count
+Count: 97, adding 5 to count
+Writing 975 to gigaTotal
+New character * at (107, 26)
+Count: 0, adding 7 to count
+Count: 7, adding 4 to count
+Count: 74, adding 5 to count
+Writing 745 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 1 to count
+New character * at (109, 44)
+Count: 31, adding 2 to count
+Writing 312 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 3 to count
+New character * at (107, 63)
+Count: 13, adding 4 to count
+Writing 134 to gigaTotal
+New character @ at (109, 74)
+Count: 0, adding 2 to count
+Count: 2, adding 5 to count
+Count: 25, adding 3 to count
+Writing 253 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 8 to count
+New character * at (107, 90)
+Count: 0, adding 3 to count
+Count: 3, adding 6 to count
+Count: 36, adding 2 to count
+Writing 362 to gigaTotal
+New character = at (109, 101)
+Count: 0, adding 7 to count
+Count: 7, adding 1 to count
+Count: 71, adding 6 to count
+Writing 716 to gigaTotal
+New character * at (107, 117)
+Count: 0, adding 9 to count
+Count: 9, adding 4 to count
+Writing 94 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 2 to count
+Count: 62, adding 0 to count
+New character * at (107, 135)
+Count: 0, adding 6 to count
+Count: 6, adding 2 to count
+Writing 62 to gigaTotal
+Count: 0, adding 1 to count
+New character - at (108, 22)
+Count: 1, adding 2 to count
+Count: 12, adding 3 to count
+Writing 123 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 2 to count
+New character / at (110, 40)
+Count: 42, adding 9 to count
+Writing 429 to gigaTotal
+New character * at (109, 44)
+Count: 0, adding 2 to count
+Count: 2, adding 6 to count
+Writing 26 to gigaTotal
+New character * at (110, 54)
+Count: 0, adding 5 to count
+Count: 5, adding 9 to count
+Count: 59, adding 0 to count
+Writing 590 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 3 to count
+New character & at (109, 72)
+Count: 83, adding 6 to count
+Writing 836 to gigaTotal
+New character + at (108, 120)
+Count: 0, adding 4 to count
+Count: 4, adding 8 to count
+Count: 48, adding 5 to count
+Writing 485 to gigaTotal
+New character - at (108, 132)
+Count: 0, adding 8 to count
+Count: 8, adding 2 to count
+Count: 82, adding 1 to count
+Writing 821 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 5 to count
+Count: 55, adding 5 to count
+New character * at (109, 12)
+Count: 0, adding 9 to count
+Count: 9, adding 2 to count
+Count: 92, adding 4 to count
+Writing 924 to gigaTotal
+New character * at (111, 26)
+Count: 0, adding 2 to count
+Count: 2, adding 8 to count
+Count: 28, adding 7 to count
+Writing 287 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 3 to count
+New character $ at (109, 86)
+Count: 83, adding 7 to count
+Writing 837 to gigaTotal
+New character + at (111, 97)
+Count: 0, adding 4 to count
+Count: 4, adding 0 to count
+Count: 40, adding 8 to count
+Writing 408 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 6 to count
+Count: 26, adding 5 to count
+Count: 0, adding 9 to count
+Count: 9, adding 2 to count
+New character * at (111, 26)
+Count: 92, adding 4 to count
+Writing 924 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 8 to count
+Count: 78, adding 4 to count
+Count: 0, adding 3 to count
+Count: 3, adding 8 to count
+New character + at (112, 48)
+Count: 38, adding 2 to count
+Writing 382 to gigaTotal
+New character * at (110, 54)
+Count: 0, adding 3 to count
+Count: 3, adding 5 to count
+Count: 35, adding 4 to count
+Writing 354 to gigaTotal
+New character * at (112, 69)
+Count: 0, adding 2 to count
+Count: 2, adding 5 to count
+Count: 25, adding 5 to count
+Writing 255 to gigaTotal
+New character * at (112, 76)
+Count: 0, adding 2 to count
+Count: 2, adding 8 to count
+Count: 28, adding 0 to count
+Writing 280 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 9 to count
+Count: 89, adding 6 to count
+New character * at (112, 107)
+Count: 0, adding 5 to count
+Count: 5, adding 3 to count
+Count: 53, adding 7 to count
+Writing 537 to gigaTotal
+New character * at (112, 114)
+Count: 0, adding 9 to count
+Count: 9, adding 3 to count
+Count: 93, adding 6 to count
+Writing 936 to gigaTotal
+New character * at (112, 121)
+Count: 0, adding 5 to count
+Count: 5, adding 2 to count
+Count: 52, adding 4 to count
+Writing 524 to gigaTotal
+New character & at (112, 129)
+Count: 0, adding 6 to count
+Count: 6, adding 0 to count
+Count: 60, adding 1 to count
+Writing 601 to gigaTotal
+New character * at (113, 12)
+Count: 0, adding 4 to count
+Count: 4, adding 9 to count
+Count: 49, adding 5 to count
+Writing 495 to gigaTotal
+New character # at (113, 41)
+Count: 0, adding 1 to count
+Count: 1, adding 7 to count
+Count: 17, adding 7 to count
+Writing 177 to gigaTotal
+New character * at (113, 60)
+Count: 0, adding 1 to count
+Count: 1, adding 4 to count
+Count: 14, adding 8 to count
+Writing 148 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 2 to count
+New character * at (112, 69)
+Count: 62, adding 8 to count
+Writing 628 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 9 to count
+Count: 69, adding 1 to count
+Count: 0, adding 7 to count
+Count: 7, adding 7 to count
+New character = at (112, 104)
+Count: 77, adding 6 to count
+Writing 776 to gigaTotal
+Count: 0, adding 6 to count
+New character * at (114, 7)
+Count: 6, adding 1 to count
+Count: 61, adding 7 to count
+Writing 617 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 3 to count
+Count: 83, adding 2 to count
+Count: 0, adding 2 to count
+Count: 2, adding 7 to count
+New character * at (113, 53)
+Count: 27, adding 8 to count
+Writing 278 to gigaTotal
+New character * at (113, 53)
+Count: 0, adding 6 to count
+Count: 6, adding 5 to count
+Count: 65, adding 1 to count
+Writing 651 to gigaTotal
+New character * at (112, 76)
+Count: 0, adding 7 to count
+Count: 7, adding 6 to count
+Count: 76, adding 7 to count
+Writing 767 to gigaTotal
+New character * at (114, 85)
+Count: 0, adding 1 to count
+Count: 1, adding 6 to count
+Writing 16 to gigaTotal
+New character @ at (114, 94)
+Count: 0, adding 6 to count
+Count: 6, adding 6 to count
+Writing 66 to gigaTotal
+New character * at (112, 107)
+Count: 0, adding 8 to count
+Count: 8, adding 5 to count
+Count: 85, adding 7 to count
+Writing 857 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 5 to count
+New character * at (112, 114)
+Count: 95, adding 6 to count
+Writing 956 to gigaTotal
+Count: 0, adding 1 to count
+New character * at (112, 121)
+Count: 1, adding 4 to count
+Count: 14, adding 5 to count
+Writing 145 to gigaTotal
+New character * at (114, 135)
+Count: 0, adding 8 to count
+Count: 8, adding 1 to count
+Count: 81, adding 7 to count
+Writing 817 to gigaTotal
+New character * at (113, 12)
+Count: 0, adding 5 to count
+Count: 5, adding 6 to count
+Count: 56, adding 0 to count
+Writing 560 to gigaTotal
+New character / at (115, 23)
+Count: 0, adding 9 to count
+Count: 9, adding 0 to count
+Count: 90, adding 6 to count
+Writing 906 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 3 to count
+New character * at (115, 40)
+Count: 63, adding 5 to count
+Writing 635 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 2 to count
+New character * at (114, 69)
+Count: 52, adding 6 to count
+Writing 526 to gigaTotal
+Count: 0, adding 4 to count
+New character * at (114, 85)
+Count: 4, adding 4 to count
+Writing 44 to gigaTotal
+New character @ at (114, 101)
+Count: 0, adding 9 to count
+Count: 9, adding 8 to count
+Count: 98, adding 1 to count
+Writing 981 to gigaTotal
+New character * at (115, 131)
+Count: 0, adding 6 to count
+Count: 6, adding 2 to count
+Count: 62, adding 4 to count
+Writing 624 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 4 to count
+New character * at (114, 7)
+Count: 44, adding 6 to count
+Writing 446 to gigaTotal
+New character * at (114, 69)
+Count: 0, adding 7 to count
+Count: 7, adding 9 to count
+Count: 79, adding 8 to count
+Writing 798 to gigaTotal
+New character % at (114, 89)
+Count: 0, adding 7 to count
+Count: 7, adding 9 to count
+Count: 79, adding 6 to count
+Writing 796 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 4 to count
+Count: 44, adding 8 to count
+Count: 0, adding 8 to count
+New character = at (114, 127)
+Count: 8, adding 3 to count
+Count: 83, adding 9 to count
+Writing 839 to gigaTotal
+New character * at (114, 135)
+Count: 0, adding 9 to count
+Count: 9, adding 4 to count
+Count: 94, adding 1 to count
+Writing 941 to gigaTotal
+Count: 0, adding 5 to count
+New character - at (115, 19)
+Count: 5, adding 2 to count
+Count: 52, adding 3 to count
+Writing 523 to gigaTotal
+New character $ at (117, 29)
+Count: 0, adding 9 to count
+Count: 9, adding 9 to count
+Count: 99, adding 0 to count
+Writing 990 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 2 to count
+New character - at (116, 37)
+Count: 82, adding 8 to count
+Writing 828 to gigaTotal
+New character * at (115, 40)
+Count: 0, adding 5 to count
+Count: 5, adding 3 to count
+Count: 53, adding 7 to count
+Writing 537 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 2 to count
+Count: 0, adding 7 to count
+Count: 7, adding 7 to count
+New character % at (115, 61)
+Count: 77, adding 1 to count
+Writing 771 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 5 to count
+New character * at (117, 68)
+Count: 25, adding 1 to count
+Writing 251 to gigaTotal
+New character * at (117, 78)
+Count: 0, adding 9 to count
+Count: 9, adding 3 to count
+Count: 93, adding 8 to count
+Writing 938 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 8 to count
+New character + at (117, 87)
+Count: 88, adding 4 to count
+Writing 884 to gigaTotal
+New character * at (117, 95)
+Count: 0, adding 7 to count
+Count: 7, adding 8 to count
+Count: 78, adding 2 to count
+Writing 782 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 6 to count
+New character * at (117, 105)
+Count: 86, adding 6 to count
+Writing 866 to gigaTotal
+New character * at (115, 131)
+Count: 0, adding 7 to count
+Count: 7, adding 7 to count
+Count: 77, adding 6 to count
+Writing 776 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 0 to count
+Count: 80, adding 8 to count
+Count: 0, adding 2 to count
+Count: 2, adding 5 to count
+New character = at (118, 10)
+Count: 25, adding 5 to count
+Writing 255 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 2 to count
+New character % at (116, 27)
+Count: 52, adding 7 to count
+Writing 527 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 0 to count
+New character * at (117, 54)
+Count: 70, adding 9 to count
+Writing 709 to gigaTotal
+New character = at (118, 115)
+Count: 0, adding 9 to count
+Count: 9, adding 0 to count
+Count: 90, adding 8 to count
+Writing 908 to gigaTotal
+Count: 0, adding 6 to count
+New character @ at (116, 123)
+Count: 6, adding 5 to count
+Count: 65, adding 9 to count
+Writing 659 to gigaTotal
+New character * at (118, 126)
+Count: 0, adding 6 to count
+Count: 6, adding 7 to count
+Count: 67, adding 5 to count
+Writing 675 to gigaTotal
+New character - at (118, 12)
+Count: 0, adding 6 to count
+Count: 6, adding 9 to count
+Count: 69, adding 4 to count
+Writing 694 to gigaTotal
+New character * at (119, 33)
+Count: 0, adding 2 to count
+Count: 2, adding 2 to count
+Count: 22, adding 5 to count
+Writing 225 to gigaTotal
+New character & at (117, 44)
+Count: 0, adding 6 to count
+Count: 6, adding 0 to count
+Count: 60, adding 3 to count
+Writing 603 to gigaTotal
+New character * at (117, 54)
+Count: 0, adding 5 to count
+Count: 5, adding 2 to count
+Count: 52, adding 3 to count
+Writing 523 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 1 to count
+New character * at (117, 68)
+Count: 61, adding 7 to count
+Writing 617 to gigaTotal
+Count: 0, adding 2 to count
+New character = at (117, 73)
+Count: 2, adding 0 to count
+Count: 20, adding 1 to count
+Writing 201 to gigaTotal
+New character * at (117, 78)
+Count: 0, adding 8 to count
+Count: 8, adding 5 to count
+Writing 85 to gigaTotal
+New character * at (117, 95)
+Count: 0, adding 4 to count
+Count: 4, adding 3 to count
+Count: 43, adding 0 to count
+Writing 430 to gigaTotal
+New character * at (117, 105)
+Count: 0, adding 9 to count
+Count: 9, adding 8 to count
+Count: 98, adding 2 to count
+Writing 982 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 2 to count
+Count: 0, adding 1 to count
+Count: 1, adding 1 to count
+Count: 11, adding 8 to count
+New character * at (120, 17)
+Count: 0, adding 6 to count
+Count: 6, adding 7 to count
+Count: 67, adding 2 to count
+Writing 672 to gigaTotal
+Count: 0, adding 7 to count
+New character * at (120, 53)
+Count: 7, adding 1 to count
+Count: 71, adding 3 to count
+Writing 713 to gigaTotal
+New character * at (120, 88)
+Count: 0, adding 1 to count
+Count: 1, adding 2 to count
+Count: 12, adding 0 to count
+Writing 120 to gigaTotal
+Count: 0, adding 2 to count
+New character * at (118, 126)
+Count: 2, adding 3 to count
+Count: 23, adding 7 to count
+Writing 237 to gigaTotal
+New character + at (118, 130)
+Count: 0, adding 7 to count
+Count: 7, adding 3 to count
+Count: 73, adding 3 to count
+Writing 733 to gigaTotal
+New character = at (119, 7)
+Count: 0, adding 7 to count
+Count: 7, adding 2 to count
+Count: 72, adding 3 to count
+Writing 723 to gigaTotal
+Count: 0, adding 7 to count
+New character * at (120, 17)
+Count: 7, adding 7 to count
+Writing 77 to gigaTotal
+New character / at (121, 25)
+Count: 0, adding 7 to count
+Count: 7, adding 6 to count
+Count: 76, adding 5 to count
+Writing 765 to gigaTotal
+Count: 0, adding 4 to count
+New character * at (121, 38)
+Count: 4, adding 5 to count
+Count: 45, adding 3 to count
+Writing 453 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 9 to count
+New character @ at (121, 46)
+Count: 29, adding 6 to count
+Writing 296 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 9 to count
+Count: 39, adding 2 to count
+Count: 0, adding 5 to count
+Count: 5, adding 5 to count
+New character * at (120, 88)
+Count: 55, adding 4 to count
+Writing 554 to gigaTotal
+New character & at (119, 102)
+Count: 0, adding 7 to count
+Count: 7, adding 7 to count
+Count: 77, adding 0 to count
+Writing 770 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 7 to count
+New character * at (121, 110)
+Count: 87, adding 8 to count
+Writing 878 to gigaTotal
+New character * at (121, 110)
+Count: 0, adding 5 to count
+Count: 5, adding 6 to count
+Count: 56, adding 9 to count
+Writing 569 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 5 to count
+Count: 75, adding 7 to count
+New character * at (120, 53)
+Count: 0, adding 5 to count
+Count: 5, adding 1 to count
+Count: 51, adding 8 to count
+Writing 518 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 6 to count
+New character * at (121, 75)
+Count: 36, adding 0 to count
+Writing 360 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 7 to count
+New character @ at (120, 96)
+Count: 27, adding 2 to count
+Writing 272 to gigaTotal
+New character + at (122, 98)
+Count: 0, adding 6 to count
+Count: 6, adding 0 to count
+Count: 60, adding 2 to count
+Writing 602 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 5 to count
+New character / at (120, 118)
+Count: 45, adding 6 to count
+Writing 456 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 1 to count
+New character / at (121, 125)
+Count: 61, adding 4 to count
+Writing 614 to gigaTotal
+New character * at (122, 14)
+Count: 0, adding 6 to count
+Count: 6, adding 7 to count
+Count: 67, adding 7 to count
+Writing 677 to gigaTotal
+New character / at (123, 30)
+Count: 0, adding 5 to count
+Count: 5, adding 9 to count
+Count: 59, adding 3 to count
+Writing 593 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 6 to count
+Count: 46, adding 0 to count
+New character * at (121, 38)
+Count: 0, adding 5 to count
+Count: 5, adding 1 to count
+Writing 51 to gigaTotal
+New character = at (123, 42)
+Count: 0, adding 5 to count
+Count: 5, adding 7 to count
+Count: 57, adding 1 to count
+Writing 571 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 3 to count
+Count: 13, adding 6 to count
+Count: 0, adding 7 to count
+Count: 7, adding 5 to count
+Count: 75, adding 8 to count
+New character + at (123, 86)
+Count: 0, adding 4 to count
+Count: 4, adding 2 to count
+Count: 42, adding 2 to count
+Writing 422 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 6 to count
+New character * at (122, 14)
+Count: 26, adding 5 to count
+Writing 265 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 7 to count
+New character * at (124, 24)
+Count: 97, adding 4 to count
+Writing 974 to gigaTotal
+Count: 0, adding 1 to count
+New character * at (124, 59)
+Count: 1, adding 4 to count
+Count: 14, adding 2 to count
+Writing 142 to gigaTotal
+New character $ at (124, 77)
+Count: 0, adding 8 to count
+Count: 8, adding 2 to count
+Writing 82 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 9 to count
+New character * at (123, 106)
+Count: 59, adding 1 to count
+Writing 591 to gigaTotal
+Count: 0, adding 5 to count
+New character & at (125, 6)
+Count: 5, adding 4 to count
+Count: 54, adding 2 to count
+Writing 542 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 4 to count
+New character * at (124, 24)
+Count: 0, adding 2 to count
+Count: 2, adding 9 to count
+Count: 29, adding 7 to count
+Writing 297 to gigaTotal
+New character * at (125, 67)
+Count: 0, adding 5 to count
+Count: 5, adding 1 to count
+Count: 51, adding 6 to count
+Writing 516 to gigaTotal
+New character $ at (123, 96)
+Count: 0, adding 1 to count
+Count: 1, adding 1 to count
+Count: 11, adding 3 to count
+Writing 113 to gigaTotal
+New character * at (123, 106)
+Count: 0, adding 1 to count
+Count: 1, adding 9 to count
+Count: 19, adding 8 to count
+Writing 198 to gigaTotal
+New character $ at (123, 118)
+Count: 0, adding 7 to count
+Count: 7, adding 9 to count
+Count: 79, adding 2 to count
+Writing 792 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 4 to count
+New character & at (123, 125)
+Count: 24, adding 4 to count
+Writing 244 to gigaTotal
+Count: 0, adding 3 to count
+New character & at (125, 133)
+Count: 3, adding 9 to count
+Count: 39, adding 1 to count
+Writing 391 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 3 to count
+New character * at (125, 22)
+Count: 73, adding 7 to count
+Writing 737 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 4 to count
+New character $ at (126, 39)
+Count: 74, adding 3 to count
+Writing 743 to gigaTotal
+New character * at (126, 44)
+Count: 0, adding 7 to count
+Count: 7, adding 4 to count
+Count: 74, adding 1 to count
+Writing 741 to gigaTotal
+Count: 0, adding 6 to count
+New character = at (124, 51)
+Count: 6, adding 4 to count
+Writing 64 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 8 to count
+New character * at (124, 59)
+Count: 68, adding 8 to count
+Writing 688 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 4 to count
+Count: 64, adding 7 to count
+Count: 0, adding 9 to count
+New character * at (126, 85)
+Count: 9, adding 8 to count
+Count: 98, adding 6 to count
+Writing 986 to gigaTotal
+New character + at (125, 88)
+Count: 0, adding 5 to count
+Count: 5, adding 8 to count
+Count: 58, adding 8 to count
+Writing 588 to gigaTotal
+New character * at (126, 136)
+Count: 0, adding 1 to count
+Count: 1, adding 2 to count
+Count: 12, adding 9 to count
+Writing 129 to gigaTotal
+New character $ at (125, 10)
+Count: 0, adding 4 to count
+Writing 4 to gigaTotal
+New character * at (125, 22)
+Count: 0, adding 1 to count
+Count: 1, adding 4 to count
+Writing 14 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 9 to count
+New character * at (126, 44)
+Count: 39, adding 7 to count
+Writing 397 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 9 to count
+New character % at (127, 64)
+Count: 89, adding 6 to count
+Writing 896 to gigaTotal
+New character * at (125, 67)
+Count: 0, adding 8 to count
+Count: 8, adding 3 to count
+Count: 83, adding 2 to count
+Writing 832 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 1 to count
+New character * at (126, 75)
+Count: 81, adding 0 to count
+Writing 810 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 5 to count
+New character * at (127, 102)
+Count: 65, adding 6 to count
+Writing 656 to gigaTotal
+New character * at (127, 113)
+Count: 0, adding 9 to count
+Count: 9, adding 9 to count
+Count: 99, adding 6 to count
+Writing 996 to gigaTotal
+New character = at (125, 126)
+Count: 0, adding 6 to count
+Count: 6, adding 1 to count
+Count: 61, adding 8 to count
+Writing 618 to gigaTotal
+New character * at (128, 8)
+Count: 0, adding 7 to count
+Count: 7, adding 6 to count
+Count: 76, adding 5 to count
+Writing 765 to gigaTotal
+New character * at (128, 28)
+Count: 0, adding 8 to count
+Count: 8, adding 8 to count
+Count: 88, adding 7 to count
+Writing 887 to gigaTotal
+New character / at (128, 34)
+Count: 0, adding 8 to count
+Writing 8 to gigaTotal
+New character * at (128, 55)
+Count: 0, adding 2 to count
+Count: 2, adding 2 to count
+Count: 22, adding 6 to count
+Writing 226 to gigaTotal
+New character * at (126, 75)
+Count: 0, adding 1 to count
+Count: 1, adding 4 to count
+Count: 14, adding 9 to count
+Writing 149 to gigaTotal
+New character * at (126, 85)
+Count: 0, adding 8 to count
+Count: 8, adding 8 to count
+Count: 88, adding 4 to count
+Writing 884 to gigaTotal
+Count: 0, adding 6 to count
+New character @ at (128, 91)
+Count: 6, adding 7 to count
+Count: 67, adding 8 to count
+Writing 678 to gigaTotal
+New character * at (128, 107)
+Count: 0, adding 3 to count
+Count: 3, adding 5 to count
+Count: 35, adding 8 to count
+Writing 358 to gigaTotal
+New character * at (128, 129)
+Count: 0, adding 9 to count
+Count: 9, adding 1 to count
+Count: 91, adding 5 to count
+Writing 915 to gigaTotal
+New character * at (126, 136)
+Count: 0, adding 9 to count
+Count: 9, adding 5 to count
+Count: 95, adding 6 to count
+Writing 956 to gigaTotal
+New character * at (129, 39)
+Count: 0, adding 5 to count
+Count: 5, adding 1 to count
+Count: 51, adding 4 to count
+Writing 514 to gigaTotal
+New character / at (129, 73)
+Count: 0, adding 9 to count
+Count: 9, adding 9 to count
+Count: 99, adding 5 to count
+Writing 995 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 2 to count
+New character * at (129, 84)
+Count: 42, adding 9 to count
+Writing 429 to gigaTotal
+New character / at (128, 94)
+Count: 0, adding 9 to count
+Count: 9, adding 6 to count
+Count: 96, adding 9 to count
+Writing 969 to gigaTotal
+New character * at (127, 102)
+Count: 0, adding 4 to count
+Count: 4, adding 3 to count
+Count: 43, adding 4 to count
+Writing 434 to gigaTotal
+New character * at (127, 113)
+Count: 0, adding 9 to count
+Count: 9, adding 5 to count
+Count: 95, adding 5 to count
+Writing 955 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 1 to count
+New character * at (128, 129)
+Count: 21, adding 0 to count
+Writing 210 to gigaTotal
+Count: 0, adding 6 to count
+Count: 6, adding 7 to count
+New character * at (128, 8)
+Count: 67, adding 2 to count
+Writing 672 to gigaTotal
+New character * at (128, 28)
+Count: 0, adding 3 to count
+Count: 3, adding 2 to count
+Count: 32, adding 2 to count
+Writing 322 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 0 to count
+New character # at (129, 51)
+Count: 40, adding 4 to count
+Writing 404 to gigaTotal
+New character * at (128, 55)
+Count: 0, adding 7 to count
+Count: 7, adding 8 to count
+Count: 78, adding 4 to count
+Writing 784 to gigaTotal
+New character # at (129, 76)
+Count: 0, adding 8 to count
+Count: 8, adding 8 to count
+Count: 88, adding 4 to count
+Writing 884 to gigaTotal
+New character * at (128, 107)
+Count: 0, adding 5 to count
+Count: 5, adding 0 to count
+Count: 50, adding 6 to count
+Writing 506 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 8 to count
+New character / at (128, 123)
+Count: 98, adding 4 to count
+Writing 984 to gigaTotal
+Count: 0, adding 7 to count
+New character * at (130, 135)
+Count: 7, adding 0 to count
+Count: 70, adding 8 to count
+Writing 708 to gigaTotal
+Count: 0, adding 7 to count
+New character @ at (129, 12)
+Count: 7, adding 5 to count
+Count: 75, adding 7 to count
+Writing 757 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 1 to count
+Count: 71, adding 2 to count
+New character @ at (129, 19)
+Count: 0, adding 1 to count
+Count: 1, adding 9 to count
+Count: 19, adding 5 to count
+Writing 195 to gigaTotal
+Count: 0, adding 1 to count
+New character * at (129, 39)
+Count: 1, adding 8 to count
+Count: 18, adding 8 to count
+Writing 188 to gigaTotal
+Count: 0, adding 8 to count
+Count: 8, adding 9 to count
+Count: 89, adding 5 to count
+New character * at (129, 84)
+Count: 0, adding 3 to count
+Count: 3, adding 2 to count
+Count: 32, adding 6 to count
+Writing 326 to gigaTotal
+New character * at (131, 88)
+Count: 0, adding 5 to count
+Count: 5, adding 0 to count
+Count: 50, adding 1 to count
+Writing 501 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 8 to count
+Count: 48, adding 0 to count
+New character & at (130, 98)
+Count: 0, adding 5 to count
+Count: 5, adding 2 to count
+Count: 52, adding 4 to count
+Writing 524 to gigaTotal
+New character * at (131, 113)
+Count: 0, adding 9 to count
+Count: 9, adding 9 to count
+Count: 99, adding 8 to count
+Writing 998 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 9 to count
+Count: 99, adding 6 to count
+New character * at (132, 3)
+Count: 0, adding 9 to count
+Count: 9, adding 7 to count
+Count: 97, adding 2 to count
+Writing 972 to gigaTotal
+New character * at (132, 6)
+Count: 0, adding 1 to count
+Count: 1, adding 6 to count
+Count: 16, adding 0 to count
+Writing 160 to gigaTotal
+New character * at (132, 25)
+Count: 0, adding 8 to count
+Count: 8, adding 5 to count
+Count: 85, adding 7 to count
+Writing 857 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 9 to count
+Count: 29, adding 3 to count
+New character * at (132, 45)
+Count: 0, adding 2 to count
+Count: 2, adding 7 to count
+Count: 27, adding 4 to count
+Writing 274 to gigaTotal
+Count: 0, adding 8 to count
+New character * at (132, 71)
+Count: 8, adding 0 to count
+Count: 80, adding 7 to count
+Writing 807 to gigaTotal
+New character / at (130, 116)
+Count: 0, adding 1 to count
+Count: 1, adding 2 to count
+Count: 12, adding 8 to count
+Writing 128 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 1 to count
+New character * at (132, 125)
+Count: 31, adding 3 to count
+Writing 313 to gigaTotal
+New character * at (130, 135)
+Count: 0, adding 4 to count
+Count: 4, adding 7 to count
+Count: 47, adding 8 to count
+Writing 478 to gigaTotal
+New character % at (133, 10)
+Count: 0, adding 8 to count
+Count: 8, adding 0 to count
+Count: 80, adding 4 to count
+Writing 804 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 3 to count
+Count: 33, adding 4 to count
+Count: 0, adding 1 to count
+Count: 1, adding 1 to count
+New character * at (132, 45)
+Count: 11, adding 0 to count
+Writing 110 to gigaTotal
+New character - at (131, 53)
+Count: 0, adding 9 to count
+Count: 9, adding 7 to count
+Count: 97, adding 4 to count
+Writing 974 to gigaTotal
+New character - at (131, 57)
+Count: 0, adding 4 to count
+Count: 4, adding 5 to count
+Count: 45, adding 9 to count
+Writing 459 to gigaTotal
+New character % at (131, 75)
+Count: 0, adding 8 to count
+Count: 8, adding 0 to count
+Count: 80, adding 1 to count
+Writing 801 to gigaTotal
+New character * at (131, 88)
+Count: 0, adding 7 to count
+Count: 7, adding 2 to count
+Count: 72, adding 7 to count
+Writing 727 to gigaTotal
+New character * at (133, 92)
+Count: 0, adding 5 to count
+Count: 5, adding 9 to count
+Count: 59, adding 5 to count
+Writing 595 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 7 to count
+Count: 77, adding 8 to count
+New character + at (131, 109)
+Count: 0, adding 6 to count
+Count: 6, adding 9 to count
+Count: 69, adding 9 to count
+Writing 699 to gigaTotal
+New character * at (131, 113)
+Count: 0, adding 8 to count
+Count: 8, adding 0 to count
+Count: 80, adding 0 to count
+Writing 800 to gigaTotal
+Count: 0, adding 9 to count
+New character * at (132, 3)
+Count: 9, adding 3 to count
+Count: 93, adding 4 to count
+Writing 934 to gigaTotal
+New character * at (132, 6)
+Count: 0, adding 7 to count
+Count: 7, adding 9 to count
+Count: 79, adding 8 to count
+Writing 798 to gigaTotal
+New character * at (132, 25)
+Count: 0, adding 3 to count
+Count: 3, adding 7 to count
+Writing 37 to gigaTotal
+New character * at (134, 32)
+Count: 0, adding 1 to count
+Count: 1, adding 9 to count
+Count: 19, adding 1 to count
+Writing 191 to gigaTotal
+New character * at (132, 71)
+Count: 0, adding 7 to count
+Count: 7, adding 5 to count
+Writing 75 to gigaTotal
+Count: 0, adding 4 to count
+New character * at (134, 85)
+Count: 4, adding 8 to count
+Count: 48, adding 6 to count
+Writing 486 to gigaTotal
+New character * at (132, 125)
+Count: 0, adding 3 to count
+Count: 3, adding 2 to count
+Count: 32, adding 3 to count
+Writing 323 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 8 to count
+Count: 38, adding 7 to count
+Count: 0, adding 4 to count
+Count: 4, adding 7 to count
+New character * at (133, 49)
+Count: 47, adding 7 to count
+Writing 477 to gigaTotal
+New character * at (133, 49)
+Count: 0, adding 2 to count
+Count: 2, adding 0 to count
+Count: 20, adding 0 to count
+Writing 200 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 6 to count
+New character @ at (133, 62)
+Count: 36, adding 0 to count
+Writing 360 to gigaTotal
+Count: 0, adding 9 to count
+New character * at (133, 92)
+Count: 9, adding 6 to count
+Count: 96, adding 2 to count
+Writing 962 to gigaTotal
+Count: 0, adding 4 to count
+Count: 4, adding 7 to count
+Count: 0, adding 1 to count
+New character * at (135, 132)
+Count: 1, adding 7 to count
+Count: 17, adding 9 to count
+Writing 179 to gigaTotal
+New character $ at (136, 21)
+Count: 0, adding 8 to count
+Count: 8, adding 8 to count
+Count: 88, adding 4 to count
+Writing 884 to gigaTotal
+New character * at (134, 32)
+Count: 0, adding 9 to count
+Count: 9, adding 8 to count
+Count: 98, adding 5 to count
+Writing 985 to gigaTotal
+New character & at (136, 70)
+Count: 0, adding 6 to count
+Count: 6, adding 7 to count
+Writing 67 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 4 to count
+New character * at (135, 77)
+Count: 14, adding 5 to count
+Writing 145 to gigaTotal
+New character * at (134, 85)
+Count: 0, adding 2 to count
+Count: 2, adding 9 to count
+Count: 29, adding 2 to count
+Writing 292 to gigaTotal
+Count: 0, adding 1 to count
+Count: 1, adding 9 to count
+Count: 19, adding 1 to count
+New character * at (136, 108)
+Count: 0, adding 3 to count
+Count: 3, adding 2 to count
+Count: 32, adding 3 to count
+Writing 323 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 1 to count
+New character - at (136, 118)
+Count: 21, adding 3 to count
+Writing 213 to gigaTotal
+Count: 0, adding 8 to count
+New character * at (137, 28)
+Count: 8, adding 6 to count
+Count: 86, adding 0 to count
+Writing 860 to gigaTotal
+New character % at (137, 42)
+Count: 0, adding 7 to count
+Count: 7, adding 0 to count
+Count: 70, adding 0 to count
+Writing 700 to gigaTotal
+New character * at (137, 46)
+Count: 0, adding 1 to count
+Count: 1, adding 4 to count
+Count: 14, adding 7 to count
+Writing 147 to gigaTotal
+New character * at (135, 77)
+Count: 0, adding 3 to count
+Count: 3, adding 3 to count
+Count: 33, adding 4 to count
+Writing 334 to gigaTotal
+New character * at (137, 89)
+Count: 0, adding 2 to count
+Count: 2, adding 8 to count
+Count: 28, adding 2 to count
+Writing 282 to gigaTotal
+New character * at (137, 94)
+Count: 0, adding 2 to count
+Count: 2, adding 6 to count
+Count: 26, adding 7 to count
+Writing 267 to gigaTotal
+Count: 0, adding 9 to count
+New character * at (137, 122)
+Count: 9, adding 3 to count
+Writing 93 to gigaTotal
+New character / at (137, 124)
+Count: 0, adding 8 to count
+Count: 8, adding 6 to count
+Count: 86, adding 7 to count
+Writing 867 to gigaTotal
+New character * at (137, 135)
+Count: 0, adding 5 to count
+Count: 5, adding 2 to count
+Count: 52, adding 5 to count
+Writing 525 to gigaTotal
+New character * at (138, 13)
+Count: 0, adding 4 to count
+Count: 4, adding 9 to count
+Count: 49, adding 2 to count
+Writing 492 to gigaTotal
+Count: 0, adding 9 to count
+Count: 9, adding 1 to count
+Count: 0, adding 7 to count
+New character * at (138, 53)
+Count: 7, adding 7 to count
+Count: 77, adding 9 to count
+Writing 779 to gigaTotal
+New character - at (137, 61)
+Count: 0, adding 6 to count
+Count: 6, adding 9 to count
+Count: 69, adding 1 to count
+Writing 691 to gigaTotal
+New character $ at (136, 67)
+Count: 0, adding 9 to count
+Count: 9, adding 3 to count
+Writing 93 to gigaTotal
+New character * at (138, 85)
+Count: 0, adding 7 to count
+Count: 7, adding 1 to count
+Count: 71, adding 0 to count
+Writing 710 to gigaTotal
+Count: 0, adding 3 to count
+Count: 3, adding 1 to count
+New character $ at (138, 105)
+Count: 31, adding 0 to count
+Writing 310 to gigaTotal
+New character = at (138, 115)
+Count: 0, adding 9 to count
+Count: 9, adding 7 to count
+Writing 97 to gigaTotal
+Count: 0, adding 5 to count
+Count: 5, adding 6 to count
+New character * at (138, 13)
+Count: 56, adding 8 to count
+Writing 568 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 0 to count
+New character & at (137, 24)
+Count: 70, adding 8 to count
+Writing 708 to gigaTotal
+New character * at (137, 28)
+Count: 0, adding 2 to count
+Count: 2, adding 1 to count
+Count: 21, adding 6 to count
+Writing 216 to gigaTotal
+Count: 0, adding 7 to count
+New character * at (137, 46)
+Count: 7, adding 8 to count
+Count: 78, adding 0 to count
+Writing 780 to gigaTotal
+New character @ at (137, 75)
+Count: 0, adding 3 to count
+Count: 3, adding 1 to count
+Count: 31, adding 2 to count
+Writing 312 to gigaTotal
+New character * at (137, 89)
+Count: 0, adding 4 to count
+Count: 4, adding 3 to count
+Count: 43, adding 8 to count
+Writing 438 to gigaTotal
+New character = at (137, 98)
+Count: 0, adding 3 to count
+Count: 3, adding 4 to count
+Count: 34, adding 6 to count
+Writing 346 to gigaTotal
+New character $ at (138, 108)
+Count: 0, adding 3 to count
+Count: 3, adding 2 to count
+Count: 32, adding 7 to count
+Writing 327 to gigaTotal
+New character * at (137, 122)
+Count: 0, adding 5 to count
+Writing 5 to gigaTotal
+Count: 0, adding 7 to count
+Count: 7, adding 5 to count
+Count: 75, adding 6 to count
+New character * at (137, 135)
+Count: 0, adding 8 to count
+Count: 8, adding 5 to count
+Count: 85, adding 5 to count
+Writing 855 to gigaTotal
+Count: 0, adding 2 to count
+Count: 2, adding 6 to count
+Count: 26, adding 1 to count
+Count: 0, adding 8 to count
+Count: 8, adding 0 to count
+Count: 80, adding 7 to count
+New character * at (138, 53)
+Count: 0, adding 2 to count
+Count: 2, adding 6 to count
+Count: 26, adding 1 to count
+Writing 261 to gigaTotal
+New character * at (138, 85)
+Count: 0, adding 4 to count
+Count: 4, adding 2 to count
+Writing 42 to gigaTotal
+Total: 996543
